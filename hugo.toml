@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.shudo-lab.org/'
 languageCode = 'ja-jp'
-title = 'Shudo Lab Home Page'
+title = '京都大学／東京工業大学 首藤研究室'
 theme = 'shudo-lab'
 
 [menus]
@@ -9,8 +9,8 @@ theme = 'shudo-lab'
     pageRef = '/'
     weight = 10
 [[menus.main]]
-    name = 'お知らせ'
-    pageRef = '/news'
+    name = '記事一覧'
+    pageRef = '/posts'
     weight = 20
 [[menus.main]]
     name = '研究室紹介'
@@ -18,7 +18,7 @@ theme = 'shudo-lab'
     weight = 30
 [[menus.main]]
     name = 'メンバー'
-    pageRef = '/member'
+    pageRef = '/members'
     weight = 40
 [[menus.main]]
     name = '対外発表'
