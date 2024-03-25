@@ -1,4 +1,34 @@
 baseURL = 'https://example.org/'
 languageCode = 'ja-jp'
-title = 'My New Hugo Site'
+title = 'Shudo Lab Home Page'
 theme = 'shudo-lab'
+
+[menus]
+[[menus.main]]
+    name = 'Top'
+    pageRef = '/'
+    weight = 10
+[[menus.main]]
+    name = 'お知らせ'
+    pageRef = '/news'
+    weight = 20
+[[menus.main]]
+    name = '研究室紹介'
+    pageRef = '/about'
+    weight = 30
+[[menus.main]]
+    name = 'メンバー'
+    pageRef = '/member'
+    weight = 40
+[[menus.main]]
+    name = '対外発表'
+    pageRef = '/papers'
+    weight = 50
+[[menus.main]]
+    name = '卒論・修論'
+    pageRef = '/theses'
+    weight = 60
+[[menus.main]]
+    name = '連絡先'
+    pageRef = '/contact'
+    weight = 70
