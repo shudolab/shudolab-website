@@ -3,6 +3,7 @@ languageCode = 'ja-jp'
 title = '京都大学／東京工業大学 首藤研究室'
 theme = 'shudo-lab'
 # theme = 'hugo-theme-cleanwhite'
+hasCJKLanguage = true
 
 [menus]
 [[menus.main]]
