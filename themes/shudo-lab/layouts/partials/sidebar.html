@@ -1,0 +1,11 @@
+<h2>最新記事</h2>
+<ul>
+{{ range where site.RegularPages "Section" "posts" | first 10 }}
+  {{ .Render "li" }}
+{{ end }}
+</ul>
+
+<h2>外部リンク</h2>
+<ul>
+  <li><a href="http://www.shudo.net/diary/">技術フェチ日記（首藤）</a>
+</ul>

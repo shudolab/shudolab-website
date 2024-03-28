@@ -1,1 +1,7 @@
+{{ $page := . }}
+{{ with .GetPage "/contact" }}
+  {{ if not (eq $page .) }}
+    {{ .Content }}
+  {{ end }}
+{{ end }}
 <p>Copyright {{ now.Year }}. All rights reserved.</p>

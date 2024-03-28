@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ .Content }}
   {{ range where site.RegularPages "Section" "posts" | first 3 }}
-    {{ partial "summary.html" . }}
+    {{ .Render "summary" }}
   {{ end }}
 {{ end }}
