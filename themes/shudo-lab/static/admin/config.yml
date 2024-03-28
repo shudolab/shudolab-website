@@ -1,0 +1,19 @@
+backend:
+  name: github
+  repo: elnikkis/cloudflare-test
+  branch: main
+
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "post"
+    label: "Post"
+    folder: "content/posts"
+    path: "{{slug}}/index"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
