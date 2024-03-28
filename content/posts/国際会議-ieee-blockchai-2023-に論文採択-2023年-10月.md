@@ -1,5 +1,5 @@
 ---
-title: '国際会議 IEEE Blockchai 2023 に論文採択 (2023年 10月)'
+title: '国際会議 IEEE Blockchain 2023 に論文採択 (2023年 10月)'
 date: Tue, 24 Oct 2023 14:08:49 +0000
 draft: false
 tags: ['未分類']
