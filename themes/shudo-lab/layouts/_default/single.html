@@ -4,7 +4,7 @@
   {{ range site.Menus.main }}
     {{ $menuPages = $menuPages | append .Page }}
   {{ end }}
-  {{ if not (in $menuPages .) }}
+  {{ if and (not (in $menuPages .)) (not .Params.hideDate) (not (eq .CurrentSection.Section "members")) }}
     {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
     {{ $dateHuman := .Date | time.Format ":date_long" }}
     <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>

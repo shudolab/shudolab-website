@@ -3,6 +3,7 @@ date: '2016-10-18T05:47:26+09:00'
 draft: false
 title: メンバー
 layout: single
+hideDate: true
 ---
 
 ### 教員
