@@ -60,7 +60,7 @@ body > header::after {
     top: 0;
     left: 50%;
     transform: translateX(-50%);
-    opacity: 0.6;
+    opacity: 0.4;
     z-index: 2;
 }
 body > header > * {
