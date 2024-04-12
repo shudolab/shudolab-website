@@ -2,18 +2,19 @@
 title: '対外発表'
 date: Tue, 18 Oct 2016 05:17:04 +0000
 draft: false
+toc: true
 ---
 
-### Refereed Papers
+## Refereed Papers
 
-#### 2024
+### 2024
 
 1.  Hidemasa Tanaka, Shiori Hironaka, Kazuyuki Shudo: "Quantitative Analysis of the Reward Rate Disparity Among Delegators in a DPoS Blockchain", Proc. 2024 IEEE Int'l Conf. on Big Data and Smart Computing ([IEEE BigComp 2024](http://bigcomputing.org/conf2024/)), pp.136-142, 2024年 2月 18日〜21日 (full paper, 投稿 126件, 採択 full paper 41件)
     *   論文 (草稿): [tanaka-BigComp-2024-DPoS.pdf](http://www.shudo.net/publications/202402-BigComp-2024-DPoS/tanaka-BigComp-2024-DPoS.pdf) (PDF ファイル, 1778 KiB)
 2.  Taishi Nakai, Kazuyuki Shudo: "Impacts on Fork Rate of Changes of Block Size and Block Generation Time for Blockchain Scalability", Proc. IEEE 42nd International Conference on Consumer Electronics ([IEEE ICCE 2024](https://icce.org/2024/)), 2024年 1月 5〜8日
     *   論文 (草稿): [nakai-ICCE-2024-fork-rate.pdf](http://www.shudo.net/publications/202401-ICCE-2024-fork-rate/nakai-ICCE-2024-fork-rate.pdf) (PDF ファイル, 207 KiB)
 
-#### 2023
+### 2023
 
 1.  Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo: "The Blockchain Trilemma Described by a Formula", Proc. 6th IEEE Int'l Conf. on Blockchain ([IEEE Blockchain 2023](http://ieee-cybermatics.org/2023/blockchain/)), pp.41-46, 2023年 12月 17〜21日 (short paper, 投稿 110件, 採択 full paper 20件 + short paper 15件)
     *   論文 (草稿): [nakai-Blockchain-2023-trilemma.pdf](http://www.shudo.net/publications/202312-Blockchain-2023-trilemma/nakai-Blockchain-2023-trilemma.pdf) (PDF ファイル, 968 KiB)
@@ -38,7 +39,7 @@ draft: false
 10.  Akira Sakurai, Kazuyuki Shudo: "Impact of the Hash Rate on the Theoretical Fork Rate of Blockchain", Proc. IEEE 41st International Conference on Consumer Electronics ([IEEE ICCE 2023](https://icce.org/2023/)), 2023年 1月 6〜8日
     *   論文 (草稿): [sakurai-ICCE-2023-fork-rate.pdf](http://www.shudo.net/publications/202301-ICCE-2023-fork-rate/sakurai-ICCE-2023-fork-rate.pdf) (PDF ファイル, 916 KiB)
 
-#### 2022
+### 2022
 
 1.  Kazuki Nakajima, Kazuyuki Shudo: "Random walk sampling in social networks involving private nodes", ACM Transactions on Knowledge Discovery from Data (TKDD), 2022年 9月 6日
     *   [DOI:10.1145/3561388](https://doi.org/10.1145/3561388)
@@ -64,7 +65,7 @@ draft: false
 11.  Yuya Miki, Takeshi Kaneko, Ryohei Banno, Kazuyuki Shudo: "An Efficient Range Search Method Utilizing Detour Routes in Skip Graph", Proc. 19th IEEE Consumer Communications & Networking Conference ([IEEE CCNC 2022](http://ccnc2022.ieee-ccnc.org/)), pp.895-898, 2022年 1月 8〜11日 (Work-in-Progress paper, 投稿 283件, 採択 134件)
     *   論文 (草稿): [miki-CCNC-2022-range-search.pdf](http://www.shudo.net/publications/202201-CCNC-2022-range-search/miki-CCNC-2022-range-search.pdf) (PDF ファイル, 1195 KiB)
 
-#### 2021
+### 2021
 
 1.  Kazuki Nakajima, Kazuyuki Shudo, Naoki Masuda: "Randomizing Hypergraphs Preserving Degree Correlation and Local Clustering", IEEE Transactions on Network Science and Engineering (TNSE), Vol.9, No.3, pp.1139-1153, 2021年 12月 8日
     *   [DOI:10.1109/TNSE.2021.3133380](https://doi.org/10.1109/TNSE.2021.3133380)
@@ -84,7 +85,7 @@ draft: false
 8.  Hideaki Oguni, Kazuyuki Shudo: "Addressing the Heterogeneity of A Wide Area Network for DNNs", Proc. 18th IEEE Consumer Communications & Networking Conference ([IEEE CCNC 2021](http://ccnc2021.ieee-ccnc.org/)), 2021年 1月 9〜12日 (投稿 225件, 採択 78件)
     *   論文 (草稿): [oguni-CCNC-2021-DNN-on-hetero-net.pdf](http://www.shudo.net/publications/202101-CCNC-2021-DNN-on-hetero-net/oguni-CCNC-2021-DNN-on-hetero-net.pdf) (PDF ファイル, 367 KiB)
 
-#### 2020
+### 2020
 
 1.  Ryohei Banno, Yusuke Kitagawa, Kazuyuki Shudo: "A Study of Blockchain Systems Exploiting Semi-Structured Overlay Networks with FRT", Proc. 2020 Int'l Conf. on Emerging Technologies for Communications ([ICETC 2020](https://www.ieice.org/cs/icetc/2020/)), 2020年 12月 2〜4日 (short presentation)
 2.  Kai Otsuki, Ryohei Banno, Kazuyuki Shudo: "Quantitatively Analyzing Relay Networks in Bitcoin", Proc. 3rd IEEE Int'l Conf. on Blockchain ([IEEE Blockchain 2020](http://www.blockchain-ieee.org/)), pp.214-220, 2020年 11月 2日〜6日 (regular paper, 投稿 225件, regular paper 採択 35件)
@@ -117,7 +118,7 @@ draft: false
 13.  Ryohei Banno, Kazuyuki Shudo: "Skip Suffix Array: A Partial Match Retrieval Method on Structured Overlay Networks", Proc. 34th Int'l Conf. on Information Networking ([ICOIN 2020](http://2020.icoin.org/)), pp.487-492, 2020年 1月7〜10日 (投稿 167件, 採択 65件)
     *   論文 (草稿): [banno-ICOIN-2020-Skip-Suffix-Array.pdf](http://www.shudo.net/publications/202001-ICOIN-2020-Skip-Suffix-Array/banno-ICOIN-2020-Skip-Suffix-Array.pdf) (PDF ファイル, 1465 KiB)
 
-#### 2019
+### 2019
 
 1.  Toshiki Matsumura, Kazuyuki Shudo: "Metropolis-Hastings Random Walk with a Reduced Number of Self-Loops", Proc. IEEE ISPA/BDCloud/[SocialCom](https://hpc.fafu.edu.cn/conference/SocialCom2019/)/SustainCom 2019, pp.1468-1475, 2019年 12月 16日〜18日
     *   スライド: [ウェブページ](http://www.shudo.net/publications/201912-SocialCom-2019-MHRW) (17 pages, HTML)
@@ -144,7 +145,7 @@ draft: false
     *   スライド: [ウェブページ](http://www.shudo.net/publications/201901-ICOIN-2019-InterMesh/) (11 pages, HTML)
     *   論文 (草稿): [ohnishi-ICOIN-2019-InterMesh.pdf](http://www.shudo.net/publications/201901-ICOIN-2019-InterMesh/ohnishi-ICOIN-2019-InterMesh.pdf) (PDF ファイル, 2034 KiB)
 
-#### 2018
+### 2018
 
 1.  Kazuki Nakajima, Kenta Iwasaki, Toshiki Matsumura, Kazuyuki Shudo: "Estimating Top-k Betweenness Centrality Nodes in Online Social Networks", Proc. IEEE ISPA-IUCC-BDCloud-[SocialCom](http://www.swinflow.org/confs/2018/socialcom/)\-SustainCom 2018, pp.1128-1135, 2018年 12月 11日〜13日
     *   論文 (草稿): [nakajima-SocialCom-2018-betw-centrality.pdf](http://www.shudo.net/publications/201812-SocialCom-2018-betw-centrality/nakajima-SocialCom-2018-betw-centrality.pdf) (PDF ファイル, 198 KiB)
@@ -163,7 +164,7 @@ draft: false
 6.  Toshiki Matsumura, Kenta Iwasaki, Kazuyuki Shudo: "Average Path Length Estimation of Social Networks by Random Walk", Proc. 2018 IEEE Int'l Conf. on Big Data and Smart Computing ([IEEE BigComp 2018](http://bigcomputing.org/conf2018/)), pp.611-614, 2018年 1月 15日〜18日 (short paper, 投稿 288件 = regular paper 210件 + short paper 78件, 採択 regular paper 67件, short paper 35件)
     *   論文 (草稿): [matsumura-BigComp-2018-path-len-est-by-random-walk.pdf](http://www.shudo.net/publications/201801-BigComp-path-len-est-by-random-walk/matsumura-BigComp-2018-path-len-est-by-random-walk.pdf) (PDF ファイル, 1834 KiB)
 
-#### 2017
+### 2017
 
 1.  Ryohei Banno, Jingyu Sun, Masahiro Fujita, Susumu Takeuchi, Kazuyuki Shudo: "Dissemination of Edge-Heavy Data on Heterogeneous MQTT Brokers", Proc. 6th IEEE Int'l Conf. on Cloud Networking ([IEEE CloudNet 2017](http://cloudnet2017.ieee-cloudnet.org/)), pp.5-11, 2017年 9月 25〜27日 (full paper, 投稿 53件, 採択 full paper 22件, short paper 6件)
     *   論文 (草稿): [banno-CloudNet-2017-hetero-MQTT-brokers.pdf](http://www.shudo.net/publications/201709-CloudNet-2017-hetero-MQTT-brokers/banno-CloudNet-2017-hetero-MQTT-brokers.pdf) (PDF ファイル, 2265 KiB)
@@ -176,7 +177,7 @@ draft: false
 4.  Takafumi Kawaguchi, Ryohei Banno, Masashi Hojo, Masaaki Ohnishi, Kazuyuki Shudo: "Self-Refining Skip Graph: Skip Graph Approaching to an Ideal Topology", Proc. 14th IEEE Consumer Communications & Networking Conference ([IEEE CCNC 2017](http://ccnc2017.ieee-ccnc.org/)), pp.441-448, 2017年 1月 8〜11日 (regular paper, 投稿 302件, 採択 regular paper 105件, work-in-progress paper 40件)
     *   論文 (草稿): [kawaguchi-CCNC-2017-Self-Refining-Skip-Graph.pdf](http://www.shudo.net/publications/201701-CCNC-2017-Self-Refining-Skip-Graph/kawaguchi-CCNC-2017-Self-Refining-Skip-Graph.pdf) (PDF ファイル, 802 KiB)
 
-#### 2016
+### 2016
 
 1.  Kazuyuki Shudo, Yuya Kato, Takahiro Sugino, Masatoshi Hanai: "Parallel Discrete-Event Simulation on Data Processing Engines", Proc. 20th IEEE/ACM Int'l Symposium on Distributed Simulation and Real Time Applications ([IEEE/ACM DS-RT 2016](http://ds-rt.com/2016/)), pp.69-76, 2016年 9月 21〜23日 (full paper, 投稿 50件, 採択 full paper 21件, short paper 3件)
     *   スライド: [ウェブページ](http://www.shudo.net/publications/201609-DS-RT-2016-PDES-on-MR/) (16 pages, HTML), [shudo-DS-RT-2016-slides-PDES-on-MapReduce.pdf](http://www.shudo.net/publications/201609-DS-RT-2016-PDES-on-MR/shudo-DS-RT-2016-slides-PDES-on-MapReduce.pdf) (PDF ファイル, 564 KiB)
@@ -189,7 +190,7 @@ draft: false
 4.  Yasunari Takatsuka, Hiroya Nagao, Takashi Yaguchi, Masatoshi Hanai, Kazuyuki Shudo: "A Caching Mechanism Based on Data Freshness", Proc. 3rd Int'l Conf. on Big Data and Smart Computing ([BigComp 2016](http://www.bigcomputing.org/conf2016/)), pp.329-332, 2016年 1月 18日〜20日 (short paper, 投稿 152件, 採択 regular paper 35件, short paper 35件)
     *   論文 (草稿): [takatsuka-BigComp2016-FACT.pdf](http://www.shudo.net/publications/201601-BigComp-2016-FACT/takatsuka-BigComp2016-FACT.pdf) (PDF ファイル, 77 KiB)
 
-#### 2015
+### 2015
 
 1.  Ryoma Sin'ya: "An Automata Theoretic Approach to the Zero-One Law for Regular Languages: Algorithmic and Logical Aspects", Proc. 6th Int'l Symposium on Games, Automata, Logics and Formal Verification ([GandALF 2015](http://gandalf2015.dibris.unige.it/)), 2015年 9月 21〜22日
 2.  Masashi Hojo, Hiroya Nagao, Takehiro Miyao, Kazuyuki Shudo: "A Two-dimensional Structured Overlay Based on Flexible Routing Tables", Proc. 20th IEEE Symposium on Computers and Communications ([IEEE ISCC 2015](http://www.ieee-iscc.org/2015/)), pp.309-314, 2015年 7月 6〜9日 (投稿 341件, 採択 137件)
@@ -198,7 +199,7 @@ draft: false
 4.  北條真史, 長尾洋也, 宮尾武裕, 首藤一幸: "柔軟な経路表に基づく二次元平面上の構造化オーバレイ", 情報処理学会論文誌, Vol.56, No.2, pp.439-447, 2015年 2月 15日
 5.  Hiroya Nagao, Kazuyuki Shudo: "Mergeable Flexible Routing Tables: A Design Framework for Reusable Structured Overlay Algorithms", Proc. Int'l Conf. on Information Networking 2015 ([ICOIN 2015](http://2015.icoin.org/)), 2015年 1月12〜14日 (投稿 260件, 採択：口頭発表 63件, 採択：ポスター発表 58件)
 
-#### 2014
+### 2014
 
 1.  Masatoshi Hanai, Toyotaro Suzumura, Anthony Ventresque, Kazuyuki Shudo: "An Adaptive VM Provisioning Method for Large-Scale Agent-based Traffic Simulations on the Cloud", Proc. 6th IEEE Int'l Conf. on Cloud Computing Technology and Science ([IEEE CloudCom 2014](http://2014.cloudcom.org/)), pp.130-137, 2014年 12月 15〜18日 (投稿 301件, 採択 54件)
 2.  Hiroya Nagao, Takehiro Miyao, Kazuyuki Shudo: "GFRT-Chord: A Flexible Structured Overlay Using Node Groups", Proc. 11th IEEE Int'l Conf. on Ubiquitous Intelligence and Computing ([IEEE UIC 2014](http://cse.stfx.ca/~uic2014/)), 2014年 12月 9〜12日 (投稿 154件, full paper 採択 41件)
@@ -215,24 +216,24 @@ draft: false
 9.  Yasuhiro Ando, Hiroya Nagao, Takehiro Miyao, Kazuyuki Shudo: "FRT-2-Chord: A DHT Supporting Seamless Transition between One-hop and Multi-hop Lookups with Symmetric Routing Table", Proc. Int'l Conf. on Information Networking 2014 ([ICOIN 2014](http://2014.icoin.org/)), 2014年 2月10〜12日 (投稿 238件, 採択：口頭発表 63件, 採択：ポスター発表 49件)
     *   論文 (草稿): [ando-ICOIN-2014-FRT-2-Chord.pdf](http://www.shudo.net/publications/201402-ICOIN-2014-FRT-2-Chord/ando-ICOIN-2014-FRT-2-Chord.pdf) (PDFファイル, 205 KiB)
 
-#### 2013
+### 2013
 
 1.  Ryoma Shin'ya, Kiminori Matsuzaki, Masataka Sassa: "Simultaneous Finite Automata: An Efficient Data-Parallel Model for Regular Expression Matching", Proc. 2013 Int'l Conf. on Parallel Processing ([ICPP 2013](http://icpp2013.ens-lyon.fr/)), October 1 - 4, 2013 (投稿 193件, 採択 59件)
 2.  Takehiro Miyao, Hiroya Nagao, Kazuyuki Shudo: "A Method for Designing Proximity-aware Routing Algorithms for Structured Overlays", Proc. 18th IEEE Symposium on Computers and Communications ([IEEE ISCC'13](http://www.ieee-iscc.org/2013/)), 2013年 7月 7〜10日 (投稿 302件, 採択 147件)
     *   論文 (草稿): [miyao-ISCC13-PFRT.pdf](http://www.shudo.net/publications/201307-ISCC13-PFRT/miyao-ISCC13-PFRT.pdf) (PDF ファイル, 387 KiB)
 
-#### 2012
+### 2012
 
 1.  安藤泰弘, 長尾洋也, 宮尾武裕, 首藤一幸: "FRT-2-Chord: one-hopとmulti-hopのシームレスな移行が可能かつ経路表に対称性を持つDHTアルゴリズム", [情報処理学会論文誌 コンピューティングシステム (ACS)](http://www.hpcc.jp/acs/), [Vol.5, No.5](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_snippet&index_id=6895&block_id=8), pp.66-75, 2012年 10月 15日
 2.  Shunsuke Nakamura, Kazuyuki Shudo: "MyCassandra: A Cloud Storage Supporting both Read Heavy and Write Heavy Workloads", Proc. 5th Annual Int'l Systems and Storage Conference ([SYSTOR 2012](http://systor12.systor.org/)), 2012年 6月 4〜6日 (full paper 投稿 50件, 採択 14件)
     *   論文 (草稿): [nakamura-SYSTOR2012-MyCassandra.pdf](http://www.shudo.net/publications/201206-SYSTOR-2012-MyCassandra/nakamura-SYSTOR2012-MyCassandra.pdf) (PDF ファイル, 1609 KiB)
 
-#### 2011
+### 2011
 
 1.  Hiroya Nagao, Kazuyuki Shudo: "Flexible Routing Tables: Designing Routing Algorithms for Overlays Based on a Total Order on a Routing Table Set", Proc. 11th IEEE Int'l Conference on Peer-to-Peer Computing ([IEEE P2P'11](http://p2p11.org/)), pp.72-81, 2011年 8月 31日〜9月 2日 (full paper 投稿 97件, 採択 29件)
     *   論文 (草稿): [nagao-P2P11-FRT.pdf](http://www.shudo.net/publications/201108-P2P11-FRT/nagao-P2P11-FRT.pdf) (PDF ファイル, 613 KiB)
 
-#### 2009
+### 2009
 
 1.  首藤一幸: "構造化オーバレイでの一括フォワーディング", [情報処理学会論文誌 コンピューティングシステム (ACS)](http://www.hpcc.jp/acs/), [Vol.2, No.3](https://ipsj.ixsq.nii.ac.jp/ej/?active_action=repository_view_main_item_snippet&index_id=5889&block_id=8), pp.39-46, 2009年 9月 18日
     
@@ -246,9 +247,9 @@ draft: false
 
 * * *
 
-### Tech Report, Talk, Poster
+## Tech Report, Talk, Poster
 
-#### 2024
+### 2024
 
 1.  宮下陸矢, 廣中詩織, 首藤一幸: "局所的な密度の指標として機能するハイパーグラフ向けクラスタ係数", 第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)), 2024年 2月 28日〜3月 5日
 2.  長谷川毅, 廣中詩織, 首藤一幸: "隣接ノードのプロパティを利用するランダムウォークベースのグラフ特徴量推定", 第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)), 2024年 2月 28日〜3月 5日
@@ -257,7 +258,7 @@ draft: false
 5.  中井大志, 廣中詩織, 首藤一幸: "ブロックチェーントリレンマの数理的定式化", 2024年 暗号と情報セキュリティシンポジウム ([SCIS 2024](https://www.iwsec.org/scis/2024/)) 論文集, 2024年 1月 23日〜26日
 6.  櫻井晶, 首藤一幸: "ブロックチェーンにおけるPartial Proof of Workに基づくチェーン競合解消ルール", 2024年 暗号と情報セキュリティシンポジウム ([SCIS 2024](https://www.iwsec.org/scis/2024/)) 論文集, 2024年 1月 23日〜26日
 
-#### 2023
+### 2023
 
 1.  宮下陸矢, 廣中詩織, 首藤一幸: "同一ハイパーエッジ内の２ノード間関係を反映するクラスタ係数の提案", ポスター発表, [ネットワーク科学研究会2023](https://www.network-science-seminar.com/activities/2023), 2023年 12月 23〜24日
 2.  長谷川毅, 廣中詩織, 首藤一幸: "隣接ノードの情報を利用するランダムウォークによるソーシャルネットワークのグラフサンプリング", ポスター発表, [ネットワーク科学研究会2023](https://www.network-science-seminar.com/activities/2023), 2023年 12月 23〜24日
@@ -285,7 +286,7 @@ draft: false
 16.  森脇泰介, 首藤一幸: "Gossip Distillation: 学習用データを送信しない非集中分散学習", 第15回データ工学と情報マネジメントに関するフォーラム ([DEIM 2023](https://event.dbsj.org/deim2023/)), 2023年 3月 5日〜9日
 17.  Rikuya Miyashita, Kazuki Nakajima, Mei Fukuda, Kazuyuki Shudo: "Randomizing Hypergraphs Preserving Two-mode Clustering Coefficient", Poster Session, Proc. 2023 IEEE Int'l Conf. on Big Data and Smart Computing ([IEEE BigComp 2023](http://bigcomputing.org/conf2023/)), 2023年 1月 13日〜16日
 
-#### 2022
+### 2022
 
 1.  Kazuki Nakajima, Kazuyuki Shudo, Naoki Masuda: "Random Hypergraph Models Preserving Degree Correlation and Local Clustering", 11th Int'l Conf. on Complex Networks and their Applications ([COMPLEX NETWORKS 2022](https://2022.complexnetworks.org/)), 2022年 11月 8〜10日 (TNSE 論文の要約)
 2.  櫻井晶, 首藤一幸: "ブロックチェーンの理論フォーク率にハッシュレートが与える影響", 電子情報通信学会 技術研究報告, Vol.122, No.185, IA2022-20, pp.32-35, 2022年 9月 15日〜16日
@@ -313,7 +314,7 @@ draft: false
 15.  福田萌斐, 中嶋一貴, 首藤一幸: "ランダムウォークに基づくTwitterのボット割合の推定", 第14回データ工学と情報マネジメントに関するフォーラム ([DEIM 2022](https://event.dbsj.org/deim2022/)), 2022年 2月 27日〜3月 2日
 16.  宮下陸矢, 中嶋一貴, 福田萌斐, 首藤一幸: "クラスタ係数を保存するランダムハイパーグラフの生成手法", 第14回データ工学と情報マネジメントに関するフォーラム ([DEIM 2022](https://event.dbsj.org/deim2022/)), 2022年 2月 27日〜3月 2日
 
-#### 2021
+### 2021
 
 1.  1.  中嶋一貴, 首藤一幸, 増田直紀: "局所構造を保存するランダム・ハイパーグラフ・モデル", ポスター講演, [ネットワーク科学研究会2021](https://www.network-science-seminar.com/activities/2021), 2021年 12月 11〜12日
     2.  Yusuke Kitagawa, Kazuyuki Shudo, Osamu Mizuno, Ryohei Banno: "Verification of Applying Plumtree Algorithm for Blockchain Networks", Poster session, Proc. 2021 Int'l Conf. on Emerging Technologies for Communications ([ICETC](https://www.ieice.org/cs/icetc/) 2021), 2021年 12月 1〜3日
@@ -341,7 +342,7 @@ draft: false
 16.  三木友弥, 金子孟司, 坂野遼平, 首藤一幸: "Skip Graphにおける迂回経路を活用した範囲検索クエリルーティング手法", 電子情報通信学会 技術研究報告, Vol.120, No.356, IA2020-33, pp.15-20, 2021年 1月 29日
     *   研究会 [プログラム](https://www.ieice.org/ken/program/?tgs_regid=0f107577f068bc1746e890a34dd7fc404a62a631b69f81312068926e169e298b&tgid=IEICE-IA)
 
-#### 2020
+### 2020
 
 1.  首藤一幸: "ブロックチェーン「ネットワーク」の研究" (招待講演), 情報処理学会 研究報告, 2020-DPS-185(-4), 2020年 12月 21日〜12月 22日
     *   スライド: [ウェブページ](202012-DPS-blockchain/) (43 pages, HTML)
@@ -379,7 +380,7 @@ draft: false
 24.  首藤一幸: "暗号通貨とブロックチェーン", 先端情報経済AI公開講座, 東京大学, 2020年 1月
     *   スライド: [ウェブページ](http://www.shudo.net/publications/202001-lecture-crypto/) (29 pages, HTML)
 
-#### 2019
+### 2019
 
 1.  首藤一幸: "暗号通貨とブロックチェーン" (依頼講演), 武蔵野市 寄附講座「IT とルールの今・未来」第5回, 成蹊大学, 2019年 10月 17日
 2.  Ryunosuke Nagayama, Kazuyuki Shudo: "Simulating Ethereum Network with SimBlock", lightning talks, [Devcon 5](http://devcon5.ethereum.org/), Ethereum Foundation, 2019年 10月 8日〜11日
@@ -412,7 +413,7 @@ draft: false
 18.  中嶋一貴, 首藤一幸: "プライベートなノードを含むソーシャルネットワークの統計量推定", 第11回データ工学と情報マネジメントに関するフォーラム ([DEIM2019](http://db-event.jpn.org/deim2019/)), 2019年 3月 4日〜3月 6日
 19.  小国英明, 髙橋良希, 首藤一幸: "広域分散を想定した深層学習手法の比較", 第11回データ工学と情報マネジメントに関するフォーラム ([DEIM2019](http://db-event.jpn.org/deim2019/)), 2019年 3月 4日〜3月 6日 (学生プレゼンテーション賞)
 
-#### 2018
+### 2018
 
 1.  大西真晶, 大和田 泰伯, 首藤一幸: "Inter mesh network アーキテクチャの解説", [第10回](https://sites.google.com/site/sensoroverlay/home/10) 広域センサネットワークとオーバレイネットワークに関するワークショップ, 2018年 9月 7日〜8日
 2.  坂野遼平, 首藤一幸: "Skip Graphにおける範囲検索クエリのルーティング手法", [第10回](https://sites.google.com/site/sensoroverlay/home/10) 広域センサネットワークとオーバレイネットワークに関するワークショップ, 2018年 9月 7日〜8日
@@ -441,7 +442,7 @@ draft: false
 20.  中嶋一貴, 岩﨑謙汰, 松村俊樹, 首藤一幸: "ランダムウォークを用いた媒介中心性上位ノードの推定", 第10回データ工学と情報マネジメントに関するフォーラム ([DEIM2018](http://db-event.jpn.org/deim2018/)), 2018年 3月 4日〜3月 6日
 21.  Yoshiki Takahashi, Masato Asahara, Kazuyuki Shudo: "A Framework for Searching a Predictive Model", SysML Conference 2018 ([SYSML 2018](http://www.sysml.cc/2018/)), 2018年 2月 15日〜16日 (投稿 205件, 採択 117件)
 
-#### 2017
+### 2017
 
 1.  大西真晶, 大和田泰伯, 首藤一幸: "Inter mesh network：無線メッシュ網間相互接続による広域網の検討", 電子情報通信学会 技術研究報告, Vol.117, No.239, IA2017-21, pp.13-18, 2017年 10月 13日
     *   [ADVNET2017](http://testbed.nict.go.jp/event/ADVNET2017.html)
@@ -463,7 +464,7 @@ draft: false
 12.  藤田俊貴, 首藤一幸, 西川武志, 大西真晶: "撮影画像評価に基づく複数カメラ制御手法", 電子情報通信学会 技術研究報告, Vol.116, No.463, MSS2017-39, CE2017-39, HI2017-39, ME2017-63, AIT2017-39, pp.321-326, 2017年 2月 20日〜21日
     *   研究会 [プログラム](http://www.ieice.org/ken/program/?tgs_regid=aaa635bd416c6c8da149d8efb32ea9078848002961bdc75723517293d9b28816)
 
-#### 2016
+### 2016
 
 1.  首藤一幸: "データ処理エンジン上での分散システムシミュレーション", ビッグデータ基盤研究会, 2016年 12月 22日
 2.  藤田俊貴, 首藤一幸, 西川武志, 大西真晶: "撮影画像評価に基づく複数カメラ制御手法", デモ・ポスターセッション, 第24回インタラクティブシステムとソフトウェアに関するワークショップ ([WISS 2016](http://www.wiss.org/WISS2016/)) 論文集, pp.207-208, 2016年 12月 14日〜16日
@@ -492,7 +493,7 @@ draft: false
 20.  岩﨑謙汰, 華井雅俊, 首藤一幸: "ソーシャルグラフ向けクラスタ係数推定手法の効率化", 第8回データ工学と情報マネジメントに関するフォーラム ([DEIM2016](http://db-event.jpn.org/deim2016/)), 2016年 2月 29日〜3月 2日
 21.  加藤裕也, 杉野好宏, 華井雅俊, 首藤一幸: "汎用分散処理システムでの大規模分散システムシミュレーションの予備評価", 電子情報通信学会 技術研究報告, Vol.115, No.404, NS2015-162, pp.93-96, 2016年 1月 21日〜22日
 
-#### 2015
+### 2015
 
 1.  加藤裕也: "へっぽこ学生が Spark 使って四苦八苦した話", ビッグデータ基盤研究会, Student Session, 2015年 12月 18日
 2.  曽我樹大: "ビッグデータ基盤研究会 〜Student Session〜", ビッグデータ基盤研究会, Student Session, 2015年 12月 18日
@@ -503,7 +504,7 @@ draft: false
 7.  新田健二, 矢口尭, 長尾洋也, 首藤一幸: "分散データベース上でのリダクション処理", 第7回データ工学と情報マネジメントに関するフォーラム ([DEIM2015](http://db-event.jpn.org/deim2015/)), 2015年 3月 2日〜4日
 8.  Masatoshi Hanai: "Towards Very Large-Scale Traffic System Simulation", Durham University Computer Science Junior Seminar, 2015年 3月
 
-#### 2014
+### 2014
 
 1.  高塚康成, 長尾洋也, 矢口尭, 華井雅俊, 首藤一幸: "読み出しデータの新鮮度を考慮するキャッシュ機構", [第7回](https://sites.google.com/site/sensoroverlay/home/7) 広域センサネットワークとオーバレイネットワークに関するワークショップ, 2014年 11月 29日〜30日
 2.  北條真史, 長尾洋也, 宮尾武裕, 首藤一幸: "柔軟な経路表に基づく二次元平面上の構造化オーバレイ", [第7回](https://sites.google.com/site/sensoroverlay/home/7) 広域センサネットワークとオーバレイネットワークに関するワークショップ, 2014年 11月 29日〜30日
@@ -524,7 +525,7 @@ draft: false
     *   研究会 [プログラム](http://www.ieice.org/ken/program/?mode=program&tgs_regid=6d8947d4f7ac073055a98edb3548c6f3135e39e9173bc6754f76dd8ad0e763f9&tgid=IN)
 13.  高塚康成, 長尾洋也, 矢口尭, 華井雅俊, 首藤一幸: "読み出しデータの新鮮度を考慮するキャッシュ機構の提案", 第6回データ工学と情報マネジメントに関するフォーラム ([DEIM2014](http://db-event.jpn.org/deim2014/)), 2014年 3月 3日〜5日
 
-#### 2013
+### 2013
 
 1.  宇都宮健太, 首藤一幸: "複雑ネットワークの生成モデルを反映したグラフサンプリング手法", 情報処理学会 研究報告, 2013-DBS-158(-9), 2013年 11月 26日
     *   研究会 [プログラム](http://www.ipsj.or.jp/kenkyukai/event/dbs158.html)
@@ -554,7 +555,7 @@ draft: false
 17.  宇都宮健太, 首藤一幸: "一様サンプリングとランダムウォークを組み合わせたグラフのサンプリング手法", 第5回データ工学と情報マネジメントに関するフォーラム ([DEIM2013](http://db-event.jpn.org/deim2013/)), 2013年 3月 3日〜5日
 18.  矢口尭, 首藤一幸: "クラウドストレージにおける読み出し性能と書き込み性能のトレードオフ動的調整手法", 第5回データ工学と情報マネジメントに関するフォーラム ([DEIM2013](http://db-event.jpn.org/deim2013/)), 2013年 3月 3日〜5日 (学生プレゼンテーション賞)
 
-#### 2012
+### 2012
 
 1.  杉野好宏, 華井雅俊, 首藤一幸: "MapReduceによる大規模分散システムのシミュレーション", インターネットコンファレンス2012 ([IC2012](http://www.internetconference.org/ic2012/)) 論文集, ISSN 1341-870X, pp.21-27, 2012年 11月 15日〜16日 (投稿 13件, 採択 9件) (学生奨励賞)
 2.  小林克志, 首藤一幸, 石田潔, 山本茂, 曽我部崇: "DYPOP: Datacenter beside Your POPの紹介 〜アクセス網に直結された分散ネットワークサービス基盤に向けて〜", 電子情報通信学会 技術研究報告, Vol.112, No.230, IN2012-80, pp.35-38 (第5回 新世代ネットワークシンポジウム), 2012年 10月 11日〜12日
@@ -580,7 +581,7 @@ draft: false
     *   [第28回ネットワークシステム・情報ネットワーク研究ワークショップ](http://www.ieice.org/cs/in/ws/2012/)
     *   研究会 [プログラム](http://www.ieice.org/ken/program/?tgs_regid=71d1cfaa6807a2bd206fc71734b9bf39ca6efb148aaaa667f4385f74e3d69b75&tgid=IEICE-NS)
 
-#### 2011
+### 2011
 
 1.  長尾洋也, 宮尾武裕, 首藤一幸: "柔軟な経路表を中心とする構造化オーバレイ理論の一検討", 電子情報通信学会 技術研究報告, Vol.111, No.277, NS2011-115, pp.67-70, 2011年 11月 10日〜11日
     *   研究会 [プログラム](http://www.ieice.org/ken/program/?tgs_regid=5fa62a5a0bc5634b2e4210bde12086757eba260af7c19d66442e51e2dc95b96b&tgid=IEICE-NS)
@@ -622,7 +623,7 @@ draft: false
 28.  中村俊介, 首藤一幸: "読み出し性能と書き込み性能を選択可能なクラウドストレージ", 情報処理学会 研究報告, 2011-OS-116(-10), 2011年 1月 24日〜25日
     *   研究会 [プログラム](http://www.ipsj.or.jp/sig/os/index.php?2011%C7%AF1%B7%EE%B8%A6%B5%E6%B2%F1)
 
-#### 2010
+### 2010
 
 1.  Kazuyuki Shudo: "How to Construct A Distributed Data Store", [12th](http://www.jsps.go.jp/j-bilat/fos_ja/jishi_12.html) Japanese-American Frontiers of Science ([JAFoS](http://www.jsps.go.jp/j-bilat/fos_ja/)) Symposium, Chiba, Japan, 2010年 12月 3〜5日
 2.  中村俊介, 首藤一幸: "読み出し性能と書き込み性能を両立させるクラウドストレージ", Work-in-Progress 発表, 第22回 コンピュータシステム・シンポジウム ([ComSys 2010](http://www.ipsj.or.jp/sig/os/ComSys2010)) 併設ワークショップ, 2010年 12月 1日
@@ -643,7 +644,7 @@ draft: false
 14.  長尾洋也, 首藤一幸: "柔軟な経路表によるオーバレイネットワークの設計", 情報処理学会 研究報告, 2010-OS-114(-11), 2010年 4月 22日
     *   研究会 [プログラム](http://www.ipsj.or.jp/sig/os/index.php?2010%C7%AF4%B7%EE%B8%A6%B5%E6%B2%F1)
 
-#### 2009
+### 2009
 
 1.  首藤一幸: "「貢献」するということ" (招待講演), [ネットワークシステムワークショップ 2009](http://www.netsys.ss.titech.ac.jp/netsysws2009/), 2009年 11月 27日
 2.  Kazuyuki Shudo: "A Review of ALM Software in Practical Use", [IETF 76](http://www.ietf.org/meeting/76/): Scalable Adaptive Multicast Research Group (SAM-RG), 2009年 11月 9日
@@ -652,9 +653,9 @@ draft: false
 
 * * *
 
-### Honors
+## Honors
 
-#### 2024
+### 2024
 
 1.  長谷川毅 ("隣接ノードのプロパティを利用するランダムウォークベースのグラフ特徴量推定"): 学生プレゼンテーション賞, 第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)), 2024年 2月 28日〜3月 5日
     *   当該セッションの発表 4件から 1件
@@ -662,7 +663,7 @@ draft: false
     *   55件から 9件。
     *   京都大学 ICT 連携推進ネットワーク: 第18回 ICT イノベーション > [優秀研究賞](https://ict-nw.i.kyoto-u.ac.jp/ict-innovation/18th/優秀研究賞/)
 
-#### 2023
+### 2023
 
 1.  竹井悠人 ("DNSSECから学ぶ暗号資産交換業での署名鍵管理手法の提案"): [インターネットアーキテクチャ研究会学生研究奨励賞](https://www.ieice.org/cs/ia/jpn/doku.php?id=student), インターネットアーキテクチャ研究会 2023年度 第2回研究会, 2023年 9月 21日〜22日
     *   受賞条件: 第一著者かつ発表者であり、最後まで参加した者
@@ -673,7 +674,7 @@ draft: false
 4.  Akira Sakurai, Kazuyuki Shudo ("Impact of the Hash Rate on the Theoretical Fork Rate of Blockchain"): 2023 ICCE 1st Place Best Student Paper Award, [IEEE ICCE 2023](https://icce.org/2023/) Technical Program Committee, 2023年 1月
     *   採択された学生による論文 138件から 1件。
 
-#### 2022
+### 2022
 
 1.  櫻井晶 ("ブロックチェーンの理論フォーク率にハッシュレートが与える影響"): [インターネットアーキテクチャ研究会学生研究奨励賞](https://www.ieice.org/cs/ia/jpn/doku.php?id=student), インターネットアーキテクチャ研究会 2022年度 第2回研究会, 2022年 9月 15日〜16日
     *   受賞条件: 第一著者かつ発表者であり、最後まで参加した者
@@ -682,7 +683,7 @@ draft: false
 3.  櫻井晶 ("ブロックチェーンにおけるブロック送信元切り替えによるブロック伝搬の高速化"): [インターネットアーキテクチャ研究会学生研究奨励賞](https://www.ieice.org/cs/ia/jpn/doku.php?id=student), インターネットアーキテクチャ研究会 2021年度 第6回研究会, 2022年 3月 7日〜8日
     *   受賞条件: 第一著者かつ発表者であり、最後まで参加した者
 
-#### 2021
+### 2021
 
 1.  大月魁, 中村龍矢, 首藤一幸 ("Saving attack のブロックチェーンコンセンサスに対する影響"): 2020年度 インターネットアーキテクチャ最優秀研究賞, 電子情報通信学会 インターネットアーキテクチャ研究専門委員会, 2021年 6月
     *   2020年度の発表 44件から 1件
@@ -697,13 +698,13 @@ draft: false
 5.  三木友弥 ("Skip Graphにおける迂回経路を活用した範囲検索クエリルーティング手法"): [インターネットアーキテクチャ研究会学生研究奨励賞](https://www.ieice.org/cs/ia/jpn/doku.php?id=student), インターネットアーキテクチャ研究会 2020年度 第6回研究会, 2021年 1月 29日
     *   受賞条件: 第一著者かつ発表者であり、最後まで参加した者
 
-#### 2020
+### 2020
 
 1.  福田萌斐 ("精度とそのばらつきに着目したグラフ生成モデルの比較"): オンラインプレゼンテーション賞, 第12回データ工学と情報マネジメントに関するフォーラム ([DEIM2020](http://db-event.jpn.org/deim2020/)), 2020年 3月 2日〜3月 4日
     *   当該セッションの発表 5件から 1件
     *   DEIM2020 [表彰](http://db-event.jpn.org/deim2020/post/awards.html)
 
-#### 2019
+### 2019
 
 1.  坂野遼平 ("構造化オーバレイを用いた分散pub/subアーキテクチャ"): 第36回 (2019年度) 井上研究奨励賞, (公財)井上科学振興財団, 2019年 12月
     *   応募条件: 2016〜2018年度に自然科学の基礎的研究で博士号を取得し2019/9/20時点で37歳未満
@@ -729,7 +730,7 @@ draft: false
     *   当該セッションの発表 3件から 1件
     *   DEIM2019 [表彰](http://db-event.jpn.org/deim2019/post/awards.html)
 
-#### 2018
+### 2018
 
 1.  坂野遼平 ("pub/subメッセージングにおける負荷分散性と低遅延性の並列"): 平成30年度　末松賞「ディジタル技術の基礎と展開」, 東京工業大学, 2018年 9月 12日
     *   東工大ニュース [平成30年度「末松賞『ディジタル技術の基礎と展開』支援」採択者決定](https://www.titech.ac.jp/news/2018/042296.html)
@@ -739,7 +740,7 @@ draft: false
     *   当該セッションの発表 5件から 1件
     *   DEIM2018 [表彰](http://db-event.jpn.org/deim2018/post/award/)
 
-#### 2017
+### 2017
 
 1.  神田伶樹 ("ビットコインネットワーク上でのデータ伝搬時間推定の試み"): [インターネットアーキテクチャ研究会学生研究奨励賞](https://www.ieice.org/cs/ia/jpn/doku.php?id=student), インターネットアーキテクチャ研究会 2017年度 第3回研究会, 2017年 10月 13日
     *   受賞条件: 第一著者かつ発表者であり、最後まで参加した者
@@ -749,7 +750,7 @@ draft: false
 3.  青木優介 ("Ballistic Skip Graph: Skip Graph型定数次数構造化オーバレイ"): [インターネットアーキテクチャ研究会学生研究奨励賞](https://www.ieice.org/cs/ia/jpn/doku.php?id=student), インターネットアーキテクチャ研究会 2016年度 第7回研究会, 2017年 3月 3日〜4日
     *   受賞条件: 第一著者かつ発表者であり、最後まで参加した者
 
-#### 2016
+### 2016
 
 1.  新屋良磨 ("言語の測度に基づく非正規性の証明技法"): PPL2016発表賞（学生の部）, 第18回プログラミングおよびプログラミング言語ワークショップ ([PPL 2016](http://ppl.jssst.or.jp/ppl2016/)), 2016年 3月 7日〜9日
 2.  川口峻史 ("Self-Refining Skip Graph: 理想的なSkip Graphに近づいていく構造化オーバレイ"): [インターネットアーキテクチャ研究会学生研究奨励賞](https://www.ieice.org/cs/ia/jpn/doku.php?id=student), インターネットアーキテクチャ研究会 2015年度 第7回研究会, 2016年 3月 3日〜4日
@@ -763,19 +764,19 @@ draft: false
     *   当該セッションの発表 6件から 1件
     *   DEIM2016 [表彰](http://db-event.jpn.org/deim2016/award.html)
 
-#### 2015
+### 2015
 
 1.  首藤一幸 ("オペレーティングシステムの卵いじり"): 平成27年度 理学部若手教員教育賞, 東京工業大学 理学部, 2015年 12月
 2.  新屋良磨 ("決定性オートマトンの隣接行列構造について -最小性の必要十分条件-"): 2015年度コンピュータサイエンス領域奨励賞, 情報処理学会, 2015年 11月
     *   情報処理学会: [2015年度コンピュータサイエンス領域奨励賞受賞者一覧](https://www.ipsj.or.jp/award/cs-award-2015.html)
 
-#### 2014
+### 2014
 
 1.  北條真史 ("柔軟な経路表に基づく二次元平面上の構造化オーバレイ"): DICOMO2014 ヤングリサーチャ賞, 2014年 7月
     *   24名
     *   DICOMO2014: [表彰](http://www.dicomo.org/2014/2014/commendation/)
 
-#### 2013
+### 2013
 
 1.  首藤一幸 ("オーバレイネットワークのアルゴリズムおよび基盤ソフトウェア"): 2012年度 長尾真記念特別賞, 情報処理学会, 2013年 6月
     *   情報処理学会: [2012年度 長尾真記念特別賞](http://www.ipsj.or.jp/award/2012nagao.html)
@@ -783,7 +784,7 @@ draft: false
     *   当該セッションの発表 5件から 1件
     *   DEIM2013 [表彰](http://db-event.jpn.org/deim2013/award.html#F4)
 
-#### 2012
+### 2012
 
 1.  杉野好宏 ("MapReduceによる大規模分散システムのシミュレーション"): 学生奨励賞, インターネットコンファレンス2012, 2012年 11月 15日〜16日
     
@@ -794,7 +795,7 @@ draft: false
 3.  首藤一幸 ("オーバレイネットワークの基盤・応用ソフトウェアの研究"): 平成24年度科学技術分野の文部科学大臣表彰 若手科学者賞, 文部科学省, 2012年 4月
     *   文部科学省 - 報道発表 - [平成24年度科学技術分野の文部科学大臣表彰受賞者の決定について](http://www.mext.go.jp/b_menu/houdou/24/04/1319413.htm)
 
-#### 2011
+### 2011
 
 1.  長尾洋也 ("オーバレイネットワークにおけるグループ間通信抑制手法"): 平成23年度 山下記念研究賞, 情報処理学会, 2012年 3月
 2.  宮尾武裕 ("構造化オーバレイにおける経路表の順序関係に基づくネットワーク近接性の考慮手法"): 学生奨励賞, インターネットコンファレンス2011, 2011年 10月 27日〜28日
@@ -809,7 +810,7 @@ draft: false
     *   当該セッションの発表 7件から 1件
     *   全国大会 [学生奨励賞 73大会, 74大会](http://www.ipsj.or.jp/01kyotsu/award/taikai_gakusei_shorei/05.html)
 
-#### 2010
+### 2010
 
 1.  長尾洋也, 首藤一幸 ("グループ間通信を抑制するオーバレイネットワークの構成手法"): 最優秀ポスター賞, 第22回 コンピュータシステム・シンポジウム ([ComSys 2010](http://www.ipsj.or.jp/sig/os/ComSys2010)), 2010年 11月 29日〜30日
     *   ポスター発表 19件から 1件
@@ -833,3 +834,4 @@ draft: false
 8.  首藤一幸: ("オーバレイネットワークの基盤・応用ソフトウェアに関する研究"): 平成21年度 船井学術賞, (財)船井情報科学振興財団, 2010年 3月
     *   被推薦者 30名から 6名
     *   (財)船井情報科学振興財団: [第9回　FFIT学術賞受賞者](http://www.funai.or.jp/ffit_list/post_3.html)
+
