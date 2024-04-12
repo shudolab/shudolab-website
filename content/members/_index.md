@@ -25,6 +25,8 @@ layout: single
 * * *
 
 - [竹井 悠人](/members/takei_yuto)
+- 櫻井 晶
+- 中井 大志
 
 
 ### 修士課程
@@ -32,13 +34,13 @@ layout: single
 * * *
 
 - 荒川 真澄
-- [宮下 陸矢](/members/miyashita-rikuya)
-- 櫻井 晶
-- 田中 秀昌
 - 長谷川 毅
 - 林 駆
 - 増田 真之介
 - 万 長楽
+- 上田 結大
+- 前田 史親
+- 徐 子博
 
 
 ### 研究協力者
@@ -52,6 +54,8 @@ layout: single
 
 * * *
 
+- [宮下 陸矢](/members/miyashita-rikuya)（2024年3月 修士課程 修了）
+- 田中 秀昌（2024年3月 修士課程 修了）
 - [永里 和哉](/members/nagasato-kazuya)（2023年3月 修士課程 修了）
 - [森脇 泰介](/members/moriwaki-taisuke)（2023年3月 修士課程 修了）
 - [中嶋 一貴](/members/nakajima_kazuki/)（2022年9月 博士課程 修了）
