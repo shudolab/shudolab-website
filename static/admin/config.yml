@@ -9,11 +9,54 @@ public_folder: "/images/uploads"
 collections:
   - name: "post"
     label: "Post"
+    description: "記事一覧へ表示される記事"
     folder: "content/posts"
     path: "{{slug}}"
     create: true
+    # filter: {field: "slug", value: "_index"}
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "menu"
+    label: "Menu"
+    description: "固定ページ"
+    files:
+      - label: "Top Page"
+        name: "index"
+        file: "content/_index.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "研究室紹介"
+        name: "about"
+        file: "content/about.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "メンバー"
+        name: "members"
+        file: "content/members/index.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "対外発表"
+        name: "papers"
+        file: "content/papers.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "卒論・修論"
+        name: "theses"
+        file: "content/theses.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "連絡先"
+        name: "contact"
+        file: "content/contact.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+
