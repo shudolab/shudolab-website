@@ -1,7 +1,7 @@
 ---
 title: '外部リンク'
 date: Tue, 25 Oct 2016 08:41:59 +0000
-draft: false
+draft: true
 ---
 
 [技術フェチ日記 (首藤)](http://www.shudo.net/diary/)    
