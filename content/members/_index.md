@@ -6,7 +6,7 @@ layout: single
 hideDate: true
 ---
 
-### 教員
+## 教員
 
 * * *
 
@@ -14,14 +14,14 @@ hideDate: true
 - [廣中 詩織](https://elnikkis.github.io/)
 
 
-### 秘書
+## 秘書
 
 * * *
 
 - 小谷 豊子
 
 
-### 博士課程
+## 博士課程
 
 * * *
 
@@ -30,7 +30,7 @@ hideDate: true
 - 中井 大志
 
 
-### 修士課程
+## 修士課程
 
 * * *
 
@@ -44,14 +44,14 @@ hideDate: true
 - 徐 子博
 
 
-### 研究協力者
+## 研究協力者
 
 * * *
 
 - [坂野 遼平](/members/banno_ryohei/)
 
 
-### 卒業生
+## 卒業生
 
 * * *
 
