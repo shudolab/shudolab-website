@@ -1,0 +1,3 @@
+/index.php/member   /members
+/index.php/news     /posts
+/index.php/*        /*
