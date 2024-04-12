@@ -1,3 +1,3 @@
-/index.php/member   /members    301
+/index.php/member/* /members/:splat    301
 /index.php/news     /posts      301
 /index.php/*        /:splat     301
