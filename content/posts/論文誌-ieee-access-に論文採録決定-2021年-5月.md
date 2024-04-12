@@ -1,8 +1,7 @@
 ---
-title: '論文誌 IEEE Access に論文採録決定 (2021年 5月)'
-date: Wed, 12 May 2021 14:53:57 +0000
+date: '2021-05-12T14:53:57+09:00'
 draft: false
-tags: ['未分類']
+title: 論文誌 IEEE Access に論文採録決定 (2021年 5月)
 ---
 
 小国、首藤の論文が論文誌 IEEE Access に採録決定しました。

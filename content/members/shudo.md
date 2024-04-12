@@ -1,7 +1,7 @@
 ---
-title: '首藤 一幸'
-date: Tue, 18 Oct 2016 05:54:40 +0000
+date: '2016-10-18T05:54:40+09:00'
 draft: false
+title: 首藤 一幸
 ---
 
 ![r0031255](https://www.shudo-lab.org/wp-content/uploads/2016/10/R0031255.jpg)

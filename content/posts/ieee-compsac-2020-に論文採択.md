@@ -1,8 +1,7 @@
 ---
-title: '国際会議 IEEE COMPSAC 2020 に論文採択 (2020年 4月)'
-date: Sat, 04 Apr 2020 14:05:30 +0000
+date: '2020-04-04T14:05:30+09:00'
 draft: false
-tags: ['未分類']
+title: 国際会議 IEEE COMPSAC 2020 に論文採択 (2020年 4月)
 ---
 
 坂野、首藤の論文が国際会議 IEEE COMPSAC 2020 に採択されました。

@@ -1,8 +1,7 @@
 ---
-title: '国際会議 IEEE ICCE 2023 にて Best Student Paper Award を受賞 (2023年 1月)'
-date: Fri, 31 Mar 2023 16:06:11 +0000
+date: '2023-03-31T16:06:11+09:00'
 draft: false
-tags: ['未分類']
+title: 国際会議 IEEE ICCE 2023 にて Best Student Paper Award を受賞 (2023年 1月)
 ---
 
 櫻井、首藤の論文が国際会議 IEEE ICCE 2023 にて、Best Student Paper Award を受賞しました。

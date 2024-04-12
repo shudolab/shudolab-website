@@ -1,8 +1,7 @@
 ---
-title: '論文誌 IEEE Transactions on Network Science and Engineering に論文採録決定 (2021年 12月)'
-date: Fri, 03 Dec 2021 15:24:06 +0000
+date: '2021-12-03T15:24:06+09:00'
 draft: false
-tags: ['未分類']
+title: 論文誌 IEEE Transactions on Network Science and Engineering に論文採録決定 (2021年 12月)
 ---
 
 中嶋、首藤、増田（U. of Buffalo）の論文が論文誌 IEEE Transactions on Network Science and Engineering に採録決定しました。

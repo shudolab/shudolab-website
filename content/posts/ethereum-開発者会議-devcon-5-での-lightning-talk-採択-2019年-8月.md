@@ -1,8 +1,7 @@
 ---
-title: 'Ethereum 開発者会議 Devcon 5 に lightning talk 採択 (2019年 8月)'
-date: Wed, 14 Aug 2019 14:09:59 +0000
+date: '2019-08-14T14:09:59+09:00'
 draft: false
-tags: ['未分類']
+title: Ethereum 開発者会議 Devcon 5 に lightning talk 採択 (2019年 8月)
 ---
 
 永山, 首藤の lightning talk 提案が採択されました。

@@ -1,8 +1,7 @@
 ---
-title: '論文誌 Scientometrics 誌に論文採録決定 (2022年 12月)'
-date: Sat, 17 Dec 2022 09:13:47 +0000
+date: '2022-12-17T09:13:47+09:00'
 draft: false
-tags: ['未分類']
+title: 論文誌 Scientometrics 誌に論文採録決定 (2022年 12月)
 ---
 
 中嶋、首藤、増田 (U. of Buffalo) の論文が論文誌 Scientometrics 誌に採録決定しました。

@@ -1,8 +1,7 @@
 ---
-title: '論文誌 IEEE Access に論文採録 (2022年 2月)'
-date: Sat, 30 Apr 2022 14:48:20 +0000
+date: '2022-04-30T14:48:20+09:00'
 draft: false
-tags: ['未分類']
+title: 論文誌 IEEE Access に論文採録 (2022年 2月)
 ---
 
 福田、中嶋、首藤の論文が論文誌 IEEE Access に採録されました。

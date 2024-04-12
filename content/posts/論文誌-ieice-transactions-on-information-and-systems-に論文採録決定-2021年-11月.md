@@ -1,8 +1,7 @@
 ---
-title: '論文誌 IEICE Transactions on Information and Systems に論文採録決定 (2021年 11月)'
-date: Fri, 03 Dec 2021 15:17:02 +0000
+date: '2021-12-03T15:17:02+09:00'
 draft: false
-tags: ['未分類']
+title: 論文誌 IEICE Transactions on Information and Systems に論文採録決定 (2021年 11月)
 ---
 
 永山、坂野、首藤の論文が論文誌 IEICE Transactions on Information and Systems に採録決定しました。

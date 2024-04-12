@@ -1,8 +1,7 @@
 ---
-title: '論文誌 IEEE Access に論文掲載 (2021年 10月)'
-date: Wed, 06 Oct 2021 05:28:14 +0000
+date: '2021-10-06T05:28:14+09:00'
 draft: false
-tags: ['未分類']
+title: 論文誌 IEEE Access に論文掲載 (2021年 10月)
 ---
 
 大月、中村 (LayerX)、首藤の論文が論文誌 IEEE Access に掲載されました。

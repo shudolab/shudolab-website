@@ -1,7 +1,7 @@
 ---
-title: '中嶋 一貴 (Kazuki Nakajima)'
-date: Wed, 17 Jan 2018 12:45:25 +0000
+date: '2018-01-17T12:45:25+09:00'
 draft: false
+title: 中嶋 一貴 (Kazuki Nakajima)
 ---
 
 個人のウェブサイト: [https://kazuibasou.github.io/](https://kazuibasou.github.io/)

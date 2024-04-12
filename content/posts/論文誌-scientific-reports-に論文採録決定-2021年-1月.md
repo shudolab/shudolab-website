@@ -1,8 +1,7 @@
 ---
-title: '論文誌 Scientific Reports に論文採録決定 (2021年 1月)'
-date: Thu, 14 Jan 2021 15:56:26 +0000
+date: '2021-01-14T15:56:26+09:00'
 draft: false
-tags: ['未分類']
+title: 論文誌 Scientific Reports に論文採録決定 (2021年 1月)
 ---
 
 中嶋、首藤の論文が論文誌 Scientific Reports に採録決定しました。

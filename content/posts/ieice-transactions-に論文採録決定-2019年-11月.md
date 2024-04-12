@@ -1,8 +1,7 @@
 ---
-title: '論文誌 IEICE Transactions に論文採録決定 (2019年 11月)'
-date: Wed, 13 Nov 2019 07:38:36 +0000
+date: '2019-11-13T07:38:36+09:00'
 draft: false
-tags: ['未分類']
+title: 論文誌 IEICE Transactions に論文採録決定 (2019年 11月)
 ---
 
 坂野, 首藤の論文の、論文誌 IEICE Transactions への採録が決定しました。

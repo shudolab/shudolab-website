@@ -1,8 +1,7 @@
 ---
-title: '国際会議 IEEE Blockchain 2021 併催ワークショップに論文採択 (2021年 10月)'
-date: Fri, 03 Dec 2021 15:13:50 +0000
+date: '2021-12-03T15:13:50+09:00'
 draft: false
-tags: ['未分類']
+title: 国際会議 IEEE Blockchain 2021 併催ワークショップに論文採択 (2021年 10月)
 ---
 
 高山、竹井、首藤の論文が国際会議 IEEE Blockchain 2021 併催ワークショップに採択されました。

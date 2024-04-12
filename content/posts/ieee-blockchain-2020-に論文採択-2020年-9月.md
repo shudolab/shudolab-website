@@ -1,8 +1,7 @@
 ---
-title: '国際会議 IEEE Blockchain 2020 に論文採択 (2020年 9月)'
-date: Fri, 11 Sep 2020 21:39:24 +0000
+date: '2020-09-11T21:39:24+09:00'
 draft: false
-tags: ['未分類']
+title: 国際会議 IEEE Blockchain 2020 に論文採択 (2020年 9月)
 ---
 
 大月、坂野、首藤の論文が国際会議 IEEE Blockchain 2020 に採択されました。

@@ -1,8 +1,7 @@
 ---
-title: '国際会議 IEEE SocialCom 2019 に論文採択 (2019年 10月)'
-date: Thu, 24 Oct 2019 08:45:22 +0000
+date: '2019-10-24T08:45:22+09:00'
 draft: false
-tags: ['未分類']
+title: 国際会議 IEEE SocialCom 2019 に論文採択 (2019年 10月)
 ---
 
 松村、首藤の論文が国際会議 IEEE SocialCom 2019 に採択されました。

@@ -1,8 +1,7 @@
 ---
-title: '国際会議 IEEE Blockchain 2022 に論文採択 (2022年 6月)'
-date: Fri, 10 Jun 2022 11:43:12 +0000
+date: '2022-06-10T11:43:12+09:00'
 draft: false
-tags: ['未分類']
+title: 国際会議 IEEE Blockchain 2022 に論文採択 (2022年 6月)
 ---
 
 1件が regular paper (採択率 13.6%) として、1件が short paper (採択率 23.4%) として、1件がワークショップ（採択率 44.1%）の論文として採択されました。

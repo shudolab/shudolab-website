@@ -1,7 +1,7 @@
 ---
-title: 'SONG TAEGYU'
-date: Sat, 28 Mar 2020 08:43:40 +0000
+date: '2020-03-28T08:43:40+09:00'
 draft: false
+title: SONG TAEGYU
 ---
 
 #### 略歴

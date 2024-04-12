@@ -1,8 +1,7 @@
 ---
-title: '国際会議 IEEE BigComp 2024 に論文採択（2023年 12月）'
-date: Wed, 13 Dec 2023 07:08:25 +0000
+date: '2023-12-13T07:08:25+09:00'
 draft: false
-tags: ['未分類']
+title: 国際会議 IEEE BigComp 2024 に論文採択（2023年 12月）
 ---
 
 田中、首藤の論文が国際会議 IEEE BigComp 2023 に採択されました。

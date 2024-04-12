@@ -1,7 +1,7 @@
 ---
-title: '高橋 賢'
-date: Wed, 17 Jan 2018 12:44:30 +0000
+date: '2018-01-17T12:44:30+09:00'
 draft: false
+title: 高橋 賢
 ---
 
 #### ![](https://www.shudo-lab.org/wp-content/uploads/2018/01/IMG_2557.jpg)

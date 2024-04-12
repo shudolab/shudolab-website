@@ -1,8 +1,7 @@
 ---
-title: '論文誌 IEICE Transactions に論文採録決定 (2019年 7月)'
-date: Tue, 02 Jul 2019 11:11:24 +0000
+date: '2019-07-02T11:11:24+09:00'
 draft: false
-tags: ['未分類']
+title: 論文誌 IEICE Transactions に論文採録決定 (2019年 7月)
 ---
 
 坂野, Sun, 竹内, 首藤の論文の、論文誌 IEICE Transactions への採録が決定しました。

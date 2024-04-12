@@ -1,8 +1,7 @@
 ---
-title: '論文誌 IEEE Open Journal of the Communications Society に論文採録決定 (2020年 9月)'
-date: Sun, 27 Sep 2020 13:10:06 +0000
+date: '2020-09-27T13:10:06+09:00'
 draft: false
-tags: ['未分類']
+title: 論文誌 IEEE Open Journal of the Communications Society に論文採録決定 (2020年 9月)
 ---
 
 金子、坂野、首藤、安倍 (大阪市大)、寺西 (NICT, 阪大) の論文が論文誌 IEEE Open Journal of the Communications Society に採録決定しました。
