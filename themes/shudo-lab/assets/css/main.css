@@ -36,11 +36,11 @@ body > header {
     grid-column: 1 / -1;
     text-align: center;
 
-    background-image: url("/bg.png");
+    background-image: url("/cover2.jpg");
     background-color: #000;
     background-size: cover;
     background-repeat: repeat, no-repeat;
-    background-position: center center, center top;
+    background-position: 50% 40%;
     position: relative;
     z-index: 1;
 }
@@ -65,7 +65,7 @@ body > header > * {
 }
 body > header h1 {
     max-width: 1200px;
-    margin: 2rem auto 4rem;
+    margin: 2rem auto 10rem;
     color: var(--background);
     font-size: 3rem;
 }
