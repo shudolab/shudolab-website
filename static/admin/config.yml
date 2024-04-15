@@ -17,7 +17,14 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ss+09:00"}
+      - {label: "Draft", name: "draft", widget: "boolean", hint: "trueにすると下書きになります"}
       - {label: "Body", name: "body", widget: "markdown"}
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+      - label: Drafts
+        field: draft
   - name: "menu"
     label: "Menu"
     description: "固定ページ"
@@ -36,7 +43,7 @@ collections:
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "メンバー"
         name: "members"
-        file: "content/members/index.md"
+        file: "content/members/_index.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
