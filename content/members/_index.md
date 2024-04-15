@@ -8,22 +8,16 @@ hideDate: true
 
 ## 教員
 
-* * *
-
 - [首藤 一幸](/members/shudo/)
 - [廣中 詩織](https://elnikkis.github.io/)
 
 
 ## 秘書
 
-* * *
-
 - 小谷 豊子
 
 
 ## 博士課程
-
-* * *
 
 - [竹井 悠人](/members/takei_yuto)
 - 櫻井 晶
@@ -31,8 +25,6 @@ hideDate: true
 
 
 ## 修士課程
-
-* * *
 
 - 荒川 真澄
 - 長谷川 毅
@@ -46,14 +38,10 @@ hideDate: true
 
 ## 研究協力者
 
-* * *
-
 - [坂野 遼平](/members/banno_ryohei/)
 
 
 ## 卒業生
-
-* * *
 
 - [宮下 陸矢](/members/miyashita-rikuya)（2024年3月 修士課程 修了）
 - 田中 秀昌（2024年3月 修士課程 修了）
