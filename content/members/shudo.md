@@ -4,7 +4,7 @@ draft: false
 title: 首藤 一幸
 ---
 
-![r0031255](https://www.shudo-lab.org/wp-content/uploads/2016/10/R0031255.jpg)
+![r0031255](/wp-content/uploads/2016/10/R0031255.jpg)
 
 *   氏名をウェブ検索： [google](http://www.google.com/search?hl=ja&q=%E9%A6%96%E8%97%A4%E4%B8%80%E5%B9%B8)
 *   技術フェチ日記： [www.shudo.net/diary/](http://www.shudo.net/diary/)
@@ -13,13 +13,9 @@ title: 首藤 一幸
 
 ## 連絡先
 
-* * *
-
 E-mail: shudo at is.titech.ac.jp
 
 ## 好きなこと
-
-* * *
 
 *   口笛 これで食べていける?と密かに思ってます。
 *   コンピュータ、ソフトウェアのhack
@@ -30,8 +26,6 @@ E-mail: shudo at is.titech.ac.jp
 
 ## On the net
 
-* * *
-
 *   [LinkedIn](http://www.linkedin.com/pub/dir/Kazuyuki/Shudo)
 *   [Facebook](http://www.facebook.com/profile.php?id=653777760)
 *   [Twitter](http://twitter.com/shudo)
@@ -39,8 +33,6 @@ E-mail: shudo at is.titech.ac.jp
 
 
 ## 略歴
-
-* * *
 
 - 1973年 12月 5日 誕生
 - 1992年 3月 神奈川県立 横須賀高等学校 卒業
@@ -53,8 +45,6 @@ E-mail: shudo at is.titech.ac.jp
 - 2008年 12月 東京工業大学 大学院情報理工学研究科 数理・計算科学専攻 准教授
 
 ## 非常勤の立場
-
-* * *
 
 - 2003年 3月 ～ 2003年 9月 うたごえ(株) 技術顧問
 - 2006年 10月 ～ 2010年 3月 早稲田大学 理工学研究所 客員研究員
