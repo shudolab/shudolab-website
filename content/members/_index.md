@@ -21,7 +21,7 @@ hideDate: true
 
 - [竹井 悠人](/members/takei_yuto)
 - 櫻井 晶
-- 中井 大志
+- [中井 大志](/members/taishi_nakai/)
 
 
 ## 修士課程
