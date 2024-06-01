@@ -1,5 +1,5 @@
 ---
-date: '2016-10-18T05:47:26+09:00'
+date: 2016-10-18T05:47:26+09:00
 draft: false
 title: メンバー
 layout: single
@@ -8,7 +8,7 @@ hideDate: true
 
 ## 教員
 
-- [首藤 一幸](/members/shudo/)
+- [首藤 一幸](http://www.shudo.net/index-j.html)
 - [廣中 詩織](https://elnikkis.github.io/)
 
 
