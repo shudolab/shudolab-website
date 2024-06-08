@@ -1,7 +1,7 @@
 ---
 title: 論文誌 IEEE Access に論文採録決定 (2024年 5月)
 date: 2024-05-30T18:09:00+09:00
-draft: true
+draft: false
 ---
 中井、櫻井、廣中、首藤の論文が論文誌 IEEE Access に採録決定しました。
 
