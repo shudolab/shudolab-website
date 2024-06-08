@@ -1,7 +1,7 @@
 ---
 title: 国際会議 IEEE Blockchain 2024 と併設ワークショプに論文採択 (2024年 6月)
 date: 2024-06-08T18:14:00+09:00
-draft: true
+draft: false
 ---
 論文 3件が国際会議 IEEE Blockchain 2024 と併設ワークショップに採択されました。
 
