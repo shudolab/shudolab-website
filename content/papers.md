@@ -18,7 +18,7 @@ Proc. 2024 IEEE Int'l Conf. on Blockchain and Cryptocurrency (<a href="http://ic
 "FATF Travel Rule’s Technical Challenges and Solution Taxonomy",<br>
 Proc. 2024 IEEE Int'l Conf. on Blockchain and Cryptocurrency (<a href="http://icbc2024.ieee-icbc.org/">IEEE ICBC 2024</a>), pp.729-744,<br>
 2024年 5月 27〜31日 (SoK paper, 投稿 16件, 採択 6件)
-   * 論文 (草稿): [takei-ICBC-2024-FATF-travel-rule.pdf](http://www.shudo.net/publications/202405-ICBC-2024-FATF-travel-rule/takei-ICBC-2024-FATF-travel-rule.pdf)
+   * 論文 (草稿): [takei-ICBC-2024-FATF-travel-rule.pdf](http://www.shudo.net/publications/202405-ICBC-2024-FATF-travel-rule/takei-ICBC-2024-FATF-travel-rule.pdf) (PDF ファイル, 968 KiB)
 
 3. Hidemasa Tanaka, Shiori Hironaka, Kazuyuki Shudo: "Quantitative Analysis of the Reward Rate Disparity Among Delegators in a DPoS Blockchain", Proc. 2024 IEEE Int'l Conf. on Big Data and Smart Computing ([IEEE BigComp 2024](http://bigcomputing.org/conf2024/)), pp.136-142, 2024年 2月 18日〜21日 (full paper, 投稿 126件, 採択 full paper 41件)
    * 論文 (草稿): [tanaka-BigComp-2024-DPoS.pdf](http://www.shudo.net/publications/202402-BigComp-2024-DPoS/tanaka-BigComp-2024-DPoS.pdf) (PDF ファイル, 1778 KiB)
