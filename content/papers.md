@@ -12,7 +12,7 @@ toc: true
 "A Formulation of the Trilemma in Proof of Work Blockchain",<br>
 IEEE Access, Vol.12, pp.80559-80578,<br>
 2024年 6月 5日
-   * [DOI:10.1019/ACCESS.2024.3410025](https://doi.org/10.1019/ACCESS.2024.3410025)
+   * [DOI:10.1109/ACCESS.2024.3410025](https://doi.org/10.1109/ACCESS.2024.3410025)
 
 2. Yuto Takei, Kazuyuki Shudo:<br>
 "Pragmatic Analysis of Key Management for Cryptocurrency Custodians",<br>
