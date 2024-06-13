@@ -8,56 +8,98 @@ toc: true
 
 ### 2024
 
-1. Yuto Takei, <font color=#408040>Kazuyuki Shudo</font>:<br>
-"Pragmatic Analysis of Key Management for Cryptocurrency Custodians",
-Proc. 2024 IEEE Int'l Conf. on Blockchain and Cryptocurrency (<a href="http://icbc2024.ieee-icbc.org/">IEEE ICBC 2024</a>), pp.524-542,
+1. Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo:<br>
+"A Formulation of the Trilemma in Proof of Work Blockchain",<br>
+IEEE Access, Vol.12, pp.80559-80578,<br>
+2024年 6月 5日
+   * [DOI:10.1019/ACCESS.2024.3410025](https://doi.org/10.1019/ACCESS.2024.3410025)
+
+2. Yuto Takei, Kazuyuki Shudo:<br>
+"Pragmatic Analysis of Key Management for Cryptocurrency Custodians",<br>
+Proc. 2024 IEEE Int'l Conf. on Blockchain and Cryptocurrency (<a href="http://icbc2024.ieee-icbc.org/">IEEE ICBC 2024</a>), pp.524-542,<br>
 2024年 5月 27〜31日 (SoK paper, 投稿 16件, 採択 6件)
    * 論文 (草稿): [takei-ICBC-2024-key-mgmt.pdf](http://www.shudo.net/publications/202405-ICBC-2024-key-mgmt/takei-ICBC-2024-key-mgmt.pdf) (PDF ファイル, 987 KiB)
 
-2. Yuto Takei, <font color=#408040>Kazuyuki Shudo</font>:<br>
+3. Yuto Takei, Kazuyuki Shudo:<br>
 "FATF Travel Rule’s Technical Challenges and Solution Taxonomy",<br>
 Proc. 2024 IEEE Int'l Conf. on Blockchain and Cryptocurrency (<a href="http://icbc2024.ieee-icbc.org/">IEEE ICBC 2024</a>), pp.729-744,<br>
 2024年 5月 27〜31日 (SoK paper, 投稿 16件, 採択 6件)
    * 論文 (草稿): [takei-ICBC-2024-FATF-travel-rule.pdf](http://www.shudo.net/publications/202405-ICBC-2024-FATF-travel-rule/takei-ICBC-2024-FATF-travel-rule.pdf) (PDF ファイル, 968 KiB)
 
-3. Hidemasa Tanaka, Shiori Hironaka, Kazuyuki Shudo: "Quantitative Analysis of the Reward Rate Disparity Among Delegators in a DPoS Blockchain", Proc. 2024 IEEE Int'l Conf. on Big Data and Smart Computing ([IEEE BigComp 2024](http://bigcomputing.org/conf2024/)), pp.136-142, 2024年 2月 18日〜21日 (full paper, 投稿 126件, 採択 full paper 41件)
+4. Hidemasa Tanaka, Shiori Hironaka, Kazuyuki Shudo: <br>
+"Quantitative Analysis of the Reward Rate Disparity Among Delegators in a DPoS Blockchain",<br>
+Proc. 2024 IEEE Int'l Conf. on Big Data and Smart Computing ([IEEE BigComp 2024](http://bigcomputing.org/conf2024/)), pp.136-142,<br>
+2024年 2月 18日〜21日 (full paper, 投稿 126件, 採択 full paper 41件)
    * 論文 (草稿): [tanaka-BigComp-2024-DPoS.pdf](http://www.shudo.net/publications/202402-BigComp-2024-DPoS/tanaka-BigComp-2024-DPoS.pdf) (PDF ファイル, 1778 KiB)
 
-4. Taishi Nakai, Kazuyuki Shudo: "Impacts on Fork Rate of Changes of Block Size and Block Generation Time for Blockchain Scalability", Proc. IEEE 42nd International Conference on Consumer Electronics ([IEEE ICCE 2024](https://icce.org/2024/)), 2024年 1月 5〜8日
+5. Taishi Nakai, Kazuyuki Shudo:<br>
+"Impacts on Fork Rate of Changes of Block Size and Block Generation Time for Blockchain Scalability",<br>
+Proc. IEEE 42nd International Conference on Consumer Electronics ([IEEE ICCE 2024](https://icce.org/2024/)),<br>
+2024年 1月 5〜8日
    * 論文 (草稿): [nakai-ICCE-2024-fork-rate.pdf](http://www.shudo.net/publications/202401-ICCE-2024-fork-rate/nakai-ICCE-2024-fork-rate.pdf) (PDF ファイル, 207 KiB)
 
 ### 2023
 
-1. Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo: "The Blockchain Trilemma Described by a Formula", Proc. 6th IEEE Int'l Conf. on Blockchain ([IEEE Blockchain 2023](http://ieee-cybermatics.org/2023/blockchain/)), pp.41-46, 2023年 12月 17〜21日 (short paper, 投稿 110件, 採択 full paper 20件 + short paper 15件)
+1. Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo:<br>
+"The Blockchain Trilemma Described by a Formula",<br>
+Proc. 6th IEEE Int'l Conf. on Blockchain ([IEEE Blockchain 2023](http://ieee-cybermatics.org/2023/blockchain/)), pp.41-46,<br>
+2023年 12月 17〜21日 (short paper, 投稿 110件, 採択 full paper 20件 + short paper 15件)
 
    * 論文 (草稿): [nakai-Blockchain-2023-trilemma.pdf](http://www.shudo.net/publications/202312-Blockchain-2023-trilemma/nakai-Blockchain-2023-trilemma.pdf) (PDF ファイル, 968 KiB)
-2. Taisuke Moriwaki, Kazuyuki Shudo: "Gossip Distillation: Decentralized Deep Learning Transmitting neither Training Data nor Models", Proc. IEEE Virtual Conf. on Communications ([IEEE VCC 2023](https://vcc2023.ieee-vcc.org/)), 2023年 11月 28〜30日 (投稿 125件, 採択 59件)
+2. Taisuke Moriwaki, Kazuyuki Shudo:<br>
+"Gossip Distillation: Decentralized Deep Learning Transmitting neither Training Data nor Models",<br>
+Proc. IEEE Virtual Conf. on Communications ([IEEE VCC 2023](https://vcc2023.ieee-vcc.org/)),<br>
+2023年 11月 28〜30日 (投稿 125件, 採択 59件)
 
    * 論文 (草稿): [moriwaki-VCC-2023-distillation.pdf](http://www.shudo.net/publications/202311-VCC-2023-distillation/moriwaki-VCC-2023-distillation.pdf) (PDF ファイル, 672 KiB)
-3. Kazuki Nakajima, Ruodan Liu, Kazuyuki Shudo, Naoki Masuda: "Quantifying gender imbalance in East Asian academia: Research career and citation practice", Journal of Informetrics, Volume 17, Issue 4, Elsevier, 2023年 11月
+3. Kazuki Nakajima, Ruodan Liu, Kazuyuki Shudo, Naoki Masuda:<br>
+"Quantifying gender imbalance in East Asian academia: Research career and citation practice",<br>
+Journal of Informetrics, Volume 17, Issue 4, Elsevier,<br>
+2023年 11月
 
    * [DOI:10.1016/j.joi.2023.101460](https://doi.org/10.1016/j.joi.2023.101460)
    * Preprint: [arXiv:2302.07843](https://arxiv.org/abs/2302.07843), 2023年 2月 15日
-4. Kazuya Nagasato, Satoshi Takabe, Kazuyuki Shudo: "Hypergraph Embedding Based on Random Walk with Adjusted Transition Probabilities", Proc. 25th Int'l Conf. on Big Data Analytics and Knowledge Discovery ([DaWaK 2023](https://www.dexa.org/dawak2023)), pp.91-100, 2023年 8月 28〜30日 (full paper, 投稿 89件, 採択 full paper 15件)
+4. Kazuya Nagasato, Satoshi Takabe, Kazuyuki Shudo:<br>
+"Hypergraph Embedding Based on Random Walk with Adjusted Transition Probabilities",<br>
+Proc. 25th Int'l Conf. on Big Data Analytics and Knowledge Discovery ([DaWaK 2023](https://www.dexa.org/dawak2023)), pp.91-100,<br>
+2023年 8月 28〜30日 (full paper, 投稿 89件, 採択 full paper 15件)
 
    * 論文 (草稿): [nagasato-DaWaK-2023-hypergraph-RW.pdf](http://www.shudo.net/publications/202308-DaWaK-2023-hypergraph-RW/nagasato-DaWaK-2023-hypergraph-RW.pdf) (PDF ファイル, 894 KiB)
-5. Rikuya Miyashita, Kazuki Nakajima, Mei Fukuda, Kazuyuki Shudo: "Random Hypergraph Model Preserving Two-mode Clustering Coefficient", Proc. 25th Int'l Conf. on Big Data Analytics and Knowledge Discovery ([DaWaK 2023](https://www.dexa.org/dawak2023)), pp.191-196, 2023年 8月 28〜30日 (short paper, 投稿 89件, 採択 full paper 15件, short paper 18件)
+5. Rikuya Miyashita, Kazuki Nakajima, Mei Fukuda, Kazuyuki Shudo:<br>
+"Random Hypergraph Model Preserving Two-mode Clustering Coefficient",<br>
+Proc. 25th Int'l Conf. on Big Data Analytics and Knowledge Discovery ([DaWaK 2023](https://www.dexa.org/dawak2023)), pp.191-196,<br>
+2023年 8月 28〜30日 (short paper, 投稿 89件, 採択 full paper 15件, short paper 18件)
 
    * 論文 (草稿): [miyashita-DaWaK-2023-hypergraph-CC.pdf](http://www.shudo.net/publications/202308-DaWaK-2023-hypergraph-CC/miyashita-DaWaK-2023-hypergraph-CC.pdf) (PDF ファイル, 826 KiB)
-6. Tsuyoshi Hasegawa, Akira Sakurai, Kazuyuki Shudo: "Quick Notification of Block Generation Using Bloom Filter in a Blockchain", Proc. 28th IEEE Symposium on Computers and Communications ([IEEE ISCC 2023](https://2023.ieee-iscc.org/)), 2023年 7月 9〜12日 (regular paper, 投稿 420件, regular paper 採択 155件)
+6. Tsuyoshi Hasegawa, Akira Sakurai, Kazuyuki Shudo:<br>
+"Quick Notification of Block Generation Using Bloom Filter in a Blockchain",<br>
+Proc. 28th IEEE Symposium on Computers and Communications ([IEEE ISCC 2023](https://2023.ieee-iscc.org/)),<br>
+2023年 7月 9〜12日 (regular paper, 投稿 420件, regular paper 採択 155件)
 
    * 論文 (草稿): [hasegawa-ISCC-2023-quick-ntfy.pdf](http://www.shudo.net/publications/202307-ISCC-2023-quick-ntfy/hasegawa-ISCC-2023-quick-ntfy.pdf) (PDF ファイル, 1647 KiB)
-7. Akira Sakurai, Kazuyuki Shudo: "Accelerating Block Propagation with Sender Switchover in a Blockchain", Proc. 28th IEEE Symposium on Computers and Communications ([IEEE ISCC 2023](https://2023.ieee-iscc.org/)), 2023年 7月 9〜12日 (short paper, 投稿 420件, regular paper 採択 155件, short paper 採択 43件)
+7. Akira Sakurai, Kazuyuki Shudo:<br>
+"Accelerating Block Propagation with Sender Switchover in a Blockchain",<br>
+Proc. 28th IEEE Symposium on Computers and Communications ([IEEE ISCC 2023](https://2023.ieee-iscc.org/)),<br>
+2023年 7月 9〜12日 (short paper, 投稿 420件, regular paper 採択 155件, short paper 採択 43件)
 
    * 論文 (草稿): [sakurai-ISCC-2023-switchover.pdf](http://www.shudo.net/publications/202307-ISCC-2023-switchover/sakurai-ISCC-2023-switchover.pdf) (PDF ファイル, 967 KiB)
-8. Yusuke Kitagawa, Kazuyuki Shudo, Osamu Mizuno, Ryohei Banno: "A Study of Using Plumtree Algorithm in Blockchain Networks", Technical Note, Journal of Information Processing (JIP), Vol.31 (2023), pp.387-391, 2023年 6月 15日
+8. Yusuke Kitagawa, Kazuyuki Shudo, Osamu Mizuno, Ryohei Banno:<br>
+"A Study of Using Plumtree Algorithm in Blockchain Networks",<br>
+Technical Note, Journal of Information Processing (JIP), Vol.31 (2023), pp.387-391,<br>
+2023年 6月 15日
 
    * [DOI:10.2197/ipsjjip.31.387](https://doi.org/10.2197/ipsjjip.31.387)
-9. Kazuki Nakajima, Kazuyuki Shudo, Naoki Masuda: "Higher-order rich-club phenomenon in collaborative research grant networks", Scientometrics (2023), 2023年 1月 19日
+9. Kazuki Nakajima, Kazuyuki Shudo, Naoki Masuda:<br>
+"Higher-order rich-club phenomenon in collaborative research grant networks",<br>
+Scientometrics (2023),<br>
+2023年 1月 19日
 
    * [DOI:10.1007/s11192-022-04621-1](https://doi.org/10.1007/s11192-022-04621-1)
    * Preprint: [arXiv:2206.11470](https://arxiv.org/abs/2206.11470), 2022年 6月 23日
-10. Akira Sakurai, Kazuyuki Shudo: "Impact of the Hash Rate on the Theoretical Fork Rate of Blockchain", Proc. IEEE 41st International Conference on Consumer Electronics ([IEEE ICCE 2023](https://icce.org/2023/)), 2023年 1月 6〜8日
+10. Akira Sakurai, Kazuyuki Shudo:<br>
+"Impact of the Hash Rate on the Theoretical Fork Rate of Blockchain",<br>
+Proc. IEEE 41st International Conference on Consumer Electronics ([IEEE ICCE 2023](https://icce.org/2023/)),<br>
+2023年 1月 6〜8日
 
     * 論文 (草稿): [sakurai-ICCE-2023-fork-rate.pdf](http://www.shudo.net/publications/202301-ICCE-2023-fork-rate/sakurai-ICCE-2023-fork-rate.pdf) (PDF ファイル, 916 KiB)
 
