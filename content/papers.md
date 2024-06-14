@@ -18,12 +18,14 @@ IEEE Access, Vol.12, pp.80559-80578,<br>
 "Pragmatic Analysis of Key Management for Cryptocurrency Custodians",<br>
 Proc. 2024 IEEE Int'l Conf. on Blockchain and Cryptocurrency (<a href="http://icbc2024.ieee-icbc.org/">IEEE ICBC 2024</a>), pp.524-542,<br>
 2024年 5月 27〜31日 (SoK paper, 投稿 16件, 採択 6件)
+   * スライド: [ウェブページ](http://www.shudo.net/publications/202405-ICBC-2024-key-mgmt/) (19 pages, HTML)
    * 論文 (草稿): [takei-ICBC-2024-key-mgmt.pdf](http://www.shudo.net/publications/202405-ICBC-2024-key-mgmt/takei-ICBC-2024-key-mgmt.pdf) (PDF ファイル, 987 KiB)
 
 3. Yuto Takei, Kazuyuki Shudo:<br>
 "FATF Travel Rule’s Technical Challenges and Solution Taxonomy",<br>
 Proc. 2024 IEEE Int'l Conf. on Blockchain and Cryptocurrency (<a href="http://icbc2024.ieee-icbc.org/">IEEE ICBC 2024</a>), pp.729-744,<br>
 2024年 5月 27〜31日 (SoK paper, 投稿 16件, 採択 6件)
+   * スライド: [ウェブページ](http://www.shudo.net/publications/202405-ICBC-2024-FATF-travel-rule/) (12 pages, HTML)
    * 論文 (草稿): [takei-ICBC-2024-FATF-travel-rule.pdf](http://www.shudo.net/publications/202405-ICBC-2024-FATF-travel-rule/takei-ICBC-2024-FATF-travel-rule.pdf) (PDF ファイル, 968 KiB)
 
 4. Hidemasa Tanaka, Shiori Hironaka, Kazuyuki Shudo: <br>
