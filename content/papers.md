@@ -421,9 +421,7 @@ Proc. IEEE 41st International Conference on Consumer Electronics ([IEEE ICCE 202
   "Rerouting Tip Algorithm to Bypass Conflicting Transactions in Tangle",
   電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-81, pp.43-47,
   2024年 3月 12日〜14日
-  <ul>
-  <li>研究会 <a href="https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA">プログラム</a>
-  </ul>
+  * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
 7. 宮下陸矢, 廣中詩織, 首藤一幸: "局所的な密度の指標として機能するハイパーグラフ向けクラスタ係数", 第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)), 2024年 2月 28日〜3月 5日
 8. 長谷川毅, 廣中詩織, 首藤一幸: "隣接ノードのプロパティを利用するランダムウォークベースのグラフ特徴量推定", 第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)), 2024年 2月 28日〜3月 5日
 9. 廣中詩織, 林駆, 吉田光男, 首藤一幸: "XとMastodonへ投稿されるトピックの比較", 第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)), 2024年 2月 28日〜3月 5日
