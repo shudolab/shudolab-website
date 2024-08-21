@@ -128,9 +128,7 @@ toc: true
     Proc. IEEE 41st International Conference on Consumer Electronics ([IEEE ICCE 2023](https://icce.org/2023/)),<br>
     2023年 1月 6〜8日
 
-    ```
     * 論文 (草稿): [sakurai-ICCE-2023-fork-rate.pdf](http://www.shudo.net/publications/202301-ICCE-2023-fork-rate/sakurai-ICCE-2023-fork-rate.pdf) (PDF ファイル, 916 KiB)
-    ```
 
 ### 2022
 
