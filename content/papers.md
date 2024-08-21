@@ -8,102 +8,129 @@ toc: true
 
 ### 2024
 
-1. Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo:<br>
-"A Formulation of the Trilemma in Proof of Work Blockchain",<br>
-IEEE Access, Vol.12, pp.80559-80578,<br>
-2024年 6月 5日
-   * [DOI:10.1109/ACCESS.2024.3410025](https://doi.org/10.1109/ACCESS.2024.3410025)
+1. Yuto Takei, Kazuyuki Shudo:<br>
+   "Effective Ethereum Staking in Cryptocurrency Exchanges",<br>
+   Proc. 7th IEEE Int'l Conf. on Blockchain (IEEE Blockchain 2024),<br>
+   2024年 8月 19～22日 (short paper, 投稿 180件, regular/short paper 採択 49件)
 
-2. Yuto Takei, Kazuyuki Shudo:<br>
-"Pragmatic Analysis of Key Management for Cryptocurrency Custodians",<br>
-Proc. 2024 IEEE Int'l Conf. on Blockchain and Cryptocurrency (<a href="http://icbc2024.ieee-icbc.org/">IEEE ICBC 2024</a>), pp.524-542,<br>
-2024年 5月 27〜31日 (SoK paper, 投稿 16件, 採択 6件)
+   * 論文 (草稿): [takei-Blockchain-2024-staking.pdf](http://www.shudo.net/publications/202408-Blockchain-2024-staking/takei-Blockchain-2024-staking.pdf) (PDF ファイル, 791 KiB)
+
+2. Hidemasa Tanaka, Shiori Hironaka, Kazuyuki Shudo:<br>
+   "Correlation Analysis of Reward Rate in a DPoS Blockchain"<br>
+   Proc. 7th IEEE Int'l Conf. on Blockchain (IEEE Blockchain 2024, FBS2024),<br>
+   2024年 8月 19～22日 (workshop paper)
+
+   * 論文 (草稿): [tanaka-Blockchain-2024-DPoS.pdf](http://www.shudo.net/publications/202408-Blockchain-2024-DPoS/tanaka-Blockchain-2024-DPoS.pdf) (PDF ファイル, 951 KiB)
+
+3. Shinnosuke Masuda, Taishi Nakai, Tsuyoshi Hasegawa, Akira Sakurai, Kazuyuki Shudo:<br>
+   "High-Bandwidth Node Selection in Compact Block Relay"<br>
+   Proc. 20th IEEE Int'l Conf. on Green Computing and Communications (IEEE GreenCom 2024, Int'l Workshop on Recent Advancement in Green Computing),<br>
+   2024年 8月 19～22日 (workshop paper)
+
+   * 論文 (草稿): [masuda-GreenCom-2024-CBR.pdf](http://www.shudo.net/publications/202408-GreenCom-2024-CBR/masuda-GreenCom-2024-CBR.pdf) (PDF ファイル, 1057 KiB)
+
+4. Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo:<br>
+   "A Formulation of the Trilemma in Proof of Work Blockchain",<br>
+   IEEE Access, Vol.12, pp.80559-80578,<br>
+   2024年 6月 5日
+
+   * [DOI:10.1109/ACCESS.2024.3410025](https://doi.org/10.1109/ACCESS.2024.3410025)[](https://doi.org/10.1109/ACCESS.2024.3410025)
+5. Yuto Takei, Kazuyuki Shudo:<br>
+   "Pragmatic Analysis of Key Management for Cryptocurrency Custodians",<br>
+   Proc. 2024 IEEE Int'l Conf. on Blockchain and Cryptocurrency (<a href="http://icbc2024.ieee-icbc.org/">IEEE ICBC 2024</a>), pp.524-542,<br>
+   2024年 5月 27〜31日 (SoK paper, 投稿 16件, 採択 6件)
+
    * スライド: [ウェブページ](http://www.shudo.net/publications/202405-ICBC-2024-key-mgmt/) (19 pages, HTML)
    * 論文 (草稿): [takei-ICBC-2024-key-mgmt.pdf](http://www.shudo.net/publications/202405-ICBC-2024-key-mgmt/takei-ICBC-2024-key-mgmt.pdf) (PDF ファイル, 987 KiB)
 
-3. Yuto Takei, Kazuyuki Shudo:<br>
-"FATF Travel Rule’s Technical Challenges and Solution Taxonomy",<br>
-Proc. 2024 IEEE Int'l Conf. on Blockchain and Cryptocurrency (<a href="http://icbc2024.ieee-icbc.org/">IEEE ICBC 2024</a>), pp.729-744,<br>
-2024年 5月 27〜31日 (SoK paper, 投稿 16件, 採択 6件)
+6. Yuto Takei, Kazuyuki Shudo:<br>
+   "FATF Travel Rule’s Technical Challenges and Solution Taxonomy",<br>
+   Proc. 2024 IEEE Int'l Conf. on Blockchain and Cryptocurrency (<a href="http://icbc2024.ieee-icbc.org/">IEEE ICBC 2024</a>), pp.729-744,<br>
+   2024年 5月 27〜31日 (SoK paper, 投稿 16件, 採択 6件)
+
    * スライド: [ウェブページ](http://www.shudo.net/publications/202405-ICBC-2024-FATF-travel-rule/) (12 pages, HTML)
    * 論文 (草稿): [takei-ICBC-2024-FATF-travel-rule.pdf](http://www.shudo.net/publications/202405-ICBC-2024-FATF-travel-rule/takei-ICBC-2024-FATF-travel-rule.pdf) (PDF ファイル, 968 KiB)
 
-4. Hidemasa Tanaka, Shiori Hironaka, Kazuyuki Shudo: <br>
-"Quantitative Analysis of the Reward Rate Disparity Among Delegators in a DPoS Blockchain",<br>
-Proc. 2024 IEEE Int'l Conf. on Big Data and Smart Computing ([IEEE BigComp 2024](http://bigcomputing.org/conf2024/)), pp.136-142,<br>
-2024年 2月 18日〜21日 (full paper, 投稿 126件, 採択 full paper 41件)
+7. Hidemasa Tanaka, Shiori Hironaka, Kazuyuki Shudo: <br>
+   "Quantitative Analysis of the Reward Rate Disparity Among Delegators in a DPoS Blockchain",<br>
+   Proc. 2024 IEEE Int'l Conf. on Big Data and Smart Computing ([IEEE BigComp 2024](http://bigcomputing.org/conf2024/)), pp.136-142,<br>
+   2024年 2月 18日〜21日 (full paper, 投稿 126件, 採択 full paper 41件)
+
    * 論文 (草稿): [tanaka-BigComp-2024-DPoS.pdf](http://www.shudo.net/publications/202402-BigComp-2024-DPoS/tanaka-BigComp-2024-DPoS.pdf) (PDF ファイル, 1778 KiB)
 
-5. Taishi Nakai, Kazuyuki Shudo:<br>
-"Impacts on Fork Rate of Changes of Block Size and Block Generation Time for Blockchain Scalability",<br>
-Proc. IEEE 42nd International Conference on Consumer Electronics ([IEEE ICCE 2024](https://icce.org/2024/)),<br>
-2024年 1月 5〜8日
+8. Taishi Nakai, Kazuyuki Shudo:<br>
+   "Impacts on Fork Rate of Changes of Block Size and Block Generation Time for Blockchain Scalability",<br>
+   Proc. IEEE 42nd International Conference on Consumer Electronics ([IEEE ICCE 2024](https://icce.org/2024/)),<br>
+   2024年 1月 5〜8日
+
    * 論文 (草稿): [nakai-ICCE-2024-fork-rate.pdf](http://www.shudo.net/publications/202401-ICCE-2024-fork-rate/nakai-ICCE-2024-fork-rate.pdf) (PDF ファイル, 207 KiB)
 
 ### 2023
 
 1. Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo:<br>
-"The Blockchain Trilemma Described by a Formula",<br>
-Proc. 6th IEEE Int'l Conf. on Blockchain ([IEEE Blockchain 2023](http://ieee-cybermatics.org/2023/blockchain/)), pp.41-46,<br>
-2023年 12月 17〜21日 (short paper, 投稿 110件, 採択 full paper 20件 + short paper 15件)
+   "The Blockchain Trilemma Described by a Formula",<br>
+   Proc. 6th IEEE Int'l Conf. on Blockchain ([IEEE Blockchain 2023](http://ieee-cybermatics.org/2023/blockchain/)), pp.41-46,<br>
+   2023年 12月 17〜21日 (short paper, 投稿 110件, 採択 full paper 20件 + short paper 15件)
 
    * 論文 (草稿): [nakai-Blockchain-2023-trilemma.pdf](http://www.shudo.net/publications/202312-Blockchain-2023-trilemma/nakai-Blockchain-2023-trilemma.pdf) (PDF ファイル, 968 KiB)
 2. Taisuke Moriwaki, Kazuyuki Shudo:<br>
-"Gossip Distillation: Decentralized Deep Learning Transmitting neither Training Data nor Models",<br>
-Proc. IEEE Virtual Conf. on Communications ([IEEE VCC 2023](https://vcc2023.ieee-vcc.org/)),<br>
-2023年 11月 28〜30日 (投稿 125件, 採択 59件)
+   "Gossip Distillation: Decentralized Deep Learning Transmitting neither Training Data nor Models",<br>
+   Proc. IEEE Virtual Conf. on Communications ([IEEE VCC 2023](https://vcc2023.ieee-vcc.org/)),<br>
+   2023年 11月 28〜30日 (投稿 125件, 採択 59件)
 
    * 論文 (草稿): [moriwaki-VCC-2023-distillation.pdf](http://www.shudo.net/publications/202311-VCC-2023-distillation/moriwaki-VCC-2023-distillation.pdf) (PDF ファイル, 672 KiB)
 3. Kazuki Nakajima, Ruodan Liu, Kazuyuki Shudo, Naoki Masuda:<br>
-"Quantifying gender imbalance in East Asian academia: Research career and citation practice",<br>
-Journal of Informetrics, Volume 17, Issue 4, Elsevier,<br>
-2023年 11月
+   "Quantifying gender imbalance in East Asian academia: Research career and citation practice",<br>
+   Journal of Informetrics, Volume 17, Issue 4, Elsevier,<br>
+   2023年 11月
 
    * [DOI:10.1016/j.joi.2023.101460](https://doi.org/10.1016/j.joi.2023.101460)
    * Preprint: [arXiv:2302.07843](https://arxiv.org/abs/2302.07843), 2023年 2月 15日
 4. Kazuya Nagasato, Satoshi Takabe, Kazuyuki Shudo:<br>
-"Hypergraph Embedding Based on Random Walk with Adjusted Transition Probabilities",<br>
-Proc. 25th Int'l Conf. on Big Data Analytics and Knowledge Discovery ([DaWaK 2023](https://www.dexa.org/dawak2023)), pp.91-100,<br>
-2023年 8月 28〜30日 (full paper, 投稿 89件, 採択 full paper 15件)
+   "Hypergraph Embedding Based on Random Walk with Adjusted Transition Probabilities",<br>
+   Proc. 25th Int'l Conf. on Big Data Analytics and Knowledge Discovery ([DaWaK 2023](https://www.dexa.org/dawak2023)), pp.91-100,<br>
+   2023年 8月 28〜30日 (full paper, 投稿 89件, 採択 full paper 15件)
 
    * 論文 (草稿): [nagasato-DaWaK-2023-hypergraph-RW.pdf](http://www.shudo.net/publications/202308-DaWaK-2023-hypergraph-RW/nagasato-DaWaK-2023-hypergraph-RW.pdf) (PDF ファイル, 894 KiB)
 5. Rikuya Miyashita, Kazuki Nakajima, Mei Fukuda, Kazuyuki Shudo:<br>
-"Random Hypergraph Model Preserving Two-mode Clustering Coefficient",<br>
-Proc. 25th Int'l Conf. on Big Data Analytics and Knowledge Discovery ([DaWaK 2023](https://www.dexa.org/dawak2023)), pp.191-196,<br>
-2023年 8月 28〜30日 (short paper, 投稿 89件, 採択 full paper 15件, short paper 18件)
+   "Random Hypergraph Model Preserving Two-mode Clustering Coefficient",<br>
+   Proc. 25th Int'l Conf. on Big Data Analytics and Knowledge Discovery ([DaWaK 2023](https://www.dexa.org/dawak2023)), pp.191-196,<br>
+   2023年 8月 28〜30日 (short paper, 投稿 89件, 採択 full paper 15件, short paper 18件)
 
    * 論文 (草稿): [miyashita-DaWaK-2023-hypergraph-CC.pdf](http://www.shudo.net/publications/202308-DaWaK-2023-hypergraph-CC/miyashita-DaWaK-2023-hypergraph-CC.pdf) (PDF ファイル, 826 KiB)
 6. Tsuyoshi Hasegawa, Akira Sakurai, Kazuyuki Shudo:<br>
-"Quick Notification of Block Generation Using Bloom Filter in a Blockchain",<br>
-Proc. 28th IEEE Symposium on Computers and Communications ([IEEE ISCC 2023](https://2023.ieee-iscc.org/)),<br>
-2023年 7月 9〜12日 (regular paper, 投稿 420件, regular paper 採択 155件)
+   "Quick Notification of Block Generation Using Bloom Filter in a Blockchain",<br>
+   Proc. 28th IEEE Symposium on Computers and Communications ([IEEE ISCC 2023](https://2023.ieee-iscc.org/)),<br>
+   2023年 7月 9〜12日 (regular paper, 投稿 420件, regular paper 採択 155件)
 
    * 論文 (草稿): [hasegawa-ISCC-2023-quick-ntfy.pdf](http://www.shudo.net/publications/202307-ISCC-2023-quick-ntfy/hasegawa-ISCC-2023-quick-ntfy.pdf) (PDF ファイル, 1647 KiB)
 7. Akira Sakurai, Kazuyuki Shudo:<br>
-"Accelerating Block Propagation with Sender Switchover in a Blockchain",<br>
-Proc. 28th IEEE Symposium on Computers and Communications ([IEEE ISCC 2023](https://2023.ieee-iscc.org/)),<br>
-2023年 7月 9〜12日 (short paper, 投稿 420件, regular paper 採択 155件, short paper 採択 43件)
+   "Accelerating Block Propagation with Sender Switchover in a Blockchain",<br>
+   Proc. 28th IEEE Symposium on Computers and Communications ([IEEE ISCC 2023](https://2023.ieee-iscc.org/)),<br>
+   2023年 7月 9〜12日 (short paper, 投稿 420件, regular paper 採択 155件, short paper 採択 43件)
 
    * 論文 (草稿): [sakurai-ISCC-2023-switchover.pdf](http://www.shudo.net/publications/202307-ISCC-2023-switchover/sakurai-ISCC-2023-switchover.pdf) (PDF ファイル, 967 KiB)
 8. Yusuke Kitagawa, Kazuyuki Shudo, Osamu Mizuno, Ryohei Banno:<br>
-"A Study of Using Plumtree Algorithm in Blockchain Networks",<br>
-Technical Note, Journal of Information Processing (JIP), Vol.31 (2023), pp.387-391,<br>
-2023年 6月 15日
+   "A Study of Using Plumtree Algorithm in Blockchain Networks",<br>
+   Technical Note, Journal of Information Processing (JIP), Vol.31 (2023), pp.387-391,<br>
+   2023年 6月 15日
 
    * [DOI:10.2197/ipsjjip.31.387](https://doi.org/10.2197/ipsjjip.31.387)
 9. Kazuki Nakajima, Kazuyuki Shudo, Naoki Masuda:<br>
-"Higher-order rich-club phenomenon in collaborative research grant networks",<br>
-Scientometrics (2023),<br>
-2023年 1月 19日
+   "Higher-order rich-club phenomenon in collaborative research grant networks",<br>
+   Scientometrics (2023),<br>
+   2023年 1月 19日
 
    * [DOI:10.1007/s11192-022-04621-1](https://doi.org/10.1007/s11192-022-04621-1)
    * Preprint: [arXiv:2206.11470](https://arxiv.org/abs/2206.11470), 2022年 6月 23日
 10. Akira Sakurai, Kazuyuki Shudo:<br>
-"Impact of the Hash Rate on the Theoretical Fork Rate of Blockchain",<br>
-Proc. IEEE 41st International Conference on Consumer Electronics ([IEEE ICCE 2023](https://icce.org/2023/)),<br>
-2023年 1月 6〜8日
+    "Impact of the Hash Rate on the Theoretical Fork Rate of Blockchain",<br>
+    Proc. IEEE 41st International Conference on Consumer Electronics ([IEEE ICCE 2023](https://icce.org/2023/)),<br>
+    2023年 1月 6〜8日
 
+    ```
     * 論文 (草稿): [sakurai-ICCE-2023-fork-rate.pdf](http://www.shudo.net/publications/202301-ICCE-2023-fork-rate/sakurai-ICCE-2023-fork-rate.pdf) (PDF ファイル, 916 KiB)
+    ```
 
 ### 2022
 
@@ -381,38 +408,38 @@ Proc. IEEE 41st International Conference on Consumer Electronics ([IEEE ICCE 202
 ### 2024
 
 1. Tsuyoshi Hasegawa, Masuda Shinnosuke, Kazuyuki Shudo, Kenjiro Cho:
-  "Visualization of Drones and Servers in an Autonomous Edge Cloud",
-  Poster, 19th Asian Internet Engineering Conference ([AINTEC 2024](https://interlab.ait.ac.th/aintec2024)),
-  2024年 8月 9日
-
+   "Visualization of Drones and Servers in an Autonomous Edge Cloud",
+   Poster, 19th Asian Internet Engineering Conference ([AINTEC 2024](https://interlab.ait.ac.th/aintec2024)),
+   2024年 8月 9日
 2. 中井大志, 櫻井晶, 首藤一幸:
-  "半減期がある状況での二重支払い攻撃の経済合理性",
-  電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-87, pp.79-85,
-  2024年 3月 12日〜14日
-   * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
+   "半減期がある状況での二重支払い攻撃の経済合理性",
+   電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-87, pp.79-85,
+   2024年 3月 12日〜14日
 
+   * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
 3. 田中秀昌, 廣中詩織, 首藤一幸:
-  "DPoSブロックチェーンにおける報酬率に関わる要素の分析",
-  電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-84, pp.59-65,
-  2024年 3月 12日〜14日
-   * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
+   "DPoSブロックチェーンにおける報酬率に関わる要素の分析",
+   電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-84, pp.59-65,
+   2024年 3月 12日〜14日
 
+   * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
 4. 櫻井晶, 首藤一幸:
-  "ブロックチェーンにおけるマイニング公平性の定量的な解析",
-  電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-83, pp.54-58,<br>
-  2024年 3月 12日〜14日
-   * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
+   "ブロックチェーンにおけるマイニング公平性の定量的な解析",
+   電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-83, pp.54-58,<br>
+   2024年 3月 12日〜14日
 
+   * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
 5. 増田真之介, 長谷川毅, 中井大志, 櫻井晶, 首藤一幸:
-  "Compact Block Relayにおける高帯域ノード選択方式",
-  電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-82, pp.48-53,
-  2024年 3月 12日〜14日
-   * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
+   "Compact Block Relayにおける高帯域ノード選択方式",
+   電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-82, pp.48-53,
+   2024年 3月 12日〜14日
 
+   * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
 6. Changle Wan, Kazuyuki Shudo:
-  "Rerouting Tip Algorithm to Bypass Conflicting Transactions in Tangle",
-  電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-81, pp.43-47,
-  2024年 3月 12日〜14日
+   "Rerouting Tip Algorithm to Bypass Conflicting Transactions in Tangle",
+   電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-81, pp.43-47,
+   2024年 3月 12日〜14日
+
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
 7. 宮下陸矢, 廣中詩織, 首藤一幸: "局所的な密度の指標として機能するハイパーグラフ向けクラスタ係数", 第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)), 2024年 2月 28日〜3月 5日
 8. 長谷川毅, 廣中詩織, 首藤一幸: "隣接ノードのプロパティを利用するランダムウォークベースのグラフ特徴量推定", 第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)), 2024年 2月 28日〜3月 5日
@@ -906,27 +933,27 @@ Proc. IEEE 41st International Conference on Consumer Electronics ([IEEE ICCE 202
 ### 2024
 
 1. 中井大志 ("ブロックチェーントリレンマの数理的定式化"):
-SCIS 論文賞, 電子情報通信学会 情報セキュリティ (ISEC) 研究専門委員会,
-2025年 1月 (2024年 7月 3日通知)
+   SCIS 論文賞, 電子情報通信学会 情報セキュリティ (ISEC) 研究専門委員会,
+   2025年 1月 (2024年 7月 3日通知)
+
    * 対象 228件から 8件
    * 規程：SCIS 2024において発表を行った若手（かつSCIS論文賞を未受賞）の講演者で、発表件数の4%程度。若手とは主に学部在学中もしくは学部卒業後10年以内を指す。
-
 2. 中井大志, 櫻井晶, 廣中詩織, 首藤一幸 ("ブロックチェーントリレンマの数理的記述"):
-2023年度 インターネットアーキテクチャ優秀研究賞, 電子情報通信学会 インターネットアーキテクチャ研究専門委員会,
-2024年 6月 17日
+   2023年度 インターネットアーキテクチャ優秀研究賞, 電子情報通信学会 インターネットアーキテクチャ研究専門委員会,
+   2024年 6月 17日
+
    * 2023年度の発表 100件から (最優秀研究賞も合わせて) 4件
-インターネットアーキテクチャ研究会: インターネットアーキテクチャ研究賞
-
+     インターネットアーキテクチャ研究会: インターネットアーキテクチャ研究賞
 3. 中井大志 ("半減期がある状況での二重支払い攻撃の経済合理性"):
-インターネットアーキテクチャ研究会学生研究奨励賞, インターネットアーキテクチャ研究会 2023年度 第7回研究会,
-2024年 3月 12日〜14日
-   * 受賞条件: 第一著者かつ発表者であり、最後まで参加した者
+   インターネットアーキテクチャ研究会学生研究奨励賞, インターネットアーキテクチャ研究会 2023年度 第7回研究会,
+   2024年 3月 12日〜14日
 
+   * 受賞条件: 第一著者かつ発表者であり、最後まで参加した者
 4. 増田真之介 ("Compact Block Relayにおける高帯域ノード選択方式"):
-インターネットアーキテクチャ研究会学生研究奨励賞, インターネットアーキテクチャ研究会 2023年度 第7回研究会,
-2024年 3月 12日〜14日
-   * 受賞条件: 第一著者かつ発表者であり、最後まで参加した者
+   インターネットアーキテクチャ研究会学生研究奨励賞, インターネットアーキテクチャ研究会 2023年度 第7回研究会,
+   2024年 3月 12日〜14日
 
+   * 受賞条件: 第一著者かつ発表者であり、最後まで参加した者
 5. 長谷川毅 ("隣接ノードのプロパティを利用するランダムウォークベースのグラフ特徴量推定"): 学生プレゼンテーション賞, 第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)), 2024年 2月 28日〜3月 5日
 
    * 当該セッションの発表 4件から 1件
