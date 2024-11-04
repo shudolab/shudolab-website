@@ -60,7 +60,7 @@ toc: true
 
 8. Taishi Nakai, Kazuyuki Shudo:<br>
    "Impacts on Fork Rate of Changes of Block Size and Block Generation Time for Blockchain Scalability",<br>
-   Proc. IEEE 42nd International Conference on Consumer Electronics ([IEEE ICCE 2024](https://icce.org/2024/)),<br>
+   Proc. IEEE 42nd Inte'l Conf. on Consumer Electronics ([IEEE ICCE 2024](https://icce.org/2024/)),<br>
    2024年 1月 5〜8日
 
    * 論文 (草稿): [nakai-ICCE-2024-fork-rate.pdf](http://www.shudo.net/publications/202401-ICCE-2024-fork-rate/nakai-ICCE-2024-fork-rate.pdf) (PDF ファイル, 207 KiB)
@@ -125,7 +125,7 @@ toc: true
    * Preprint: [arXiv:2206.11470](https://arxiv.org/abs/2206.11470), 2022年 6月 23日
 10. Akira Sakurai, Kazuyuki Shudo:<br>
     "Impact of the Hash Rate on the Theoretical Fork Rate of Blockchain",<br>
-    Proc. IEEE 41st International Conference on Consumer Electronics ([IEEE ICCE 2023](https://icce.org/2023/)),<br>
+    Proc. IEEE 41st Inte'l Conf. on Consumer Electronics ([IEEE ICCE 2023](https://icce.org/2023/)),<br>
     2023年 1月 6〜8日
 
     * 論文 (草稿): [sakurai-ICCE-2023-fork-rate.pdf](http://www.shudo.net/publications/202301-ICCE-2023-fork-rate/sakurai-ICCE-2023-fork-rate.pdf) (PDF ファイル, 916 KiB)
