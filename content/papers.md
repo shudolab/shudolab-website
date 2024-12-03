@@ -405,46 +405,50 @@ toc: true
 
 ### 2024
 
-1. Tsuyoshi Hasegawa, Masuda Shinnosuke, Kazuyuki Shudo, Kenjiro Cho:
+1. 中井大志:
+   "ブロックチェーンにおけるトリレンマの数理的定式化とそのインパクト",
+   分散台帳とその応用技術特別研究会 (RC-94) 2024年度第3回会合, (一財)生産技術研究奨励会,
+   2024年 12月 2日
+2. Tsuyoshi Hasegawa, Masuda Shinnosuke, Kazuyuki Shudo, Kenjiro Cho:
    "Visualization of Drones and Servers in an Autonomous Edge Cloud",
    Poster, 19th Asian Internet Engineering Conference ([AINTEC 2024](https://interlab.ait.ac.th/aintec2024)),
    2024年 8月 9日
-2. 中井大志, 櫻井晶, 首藤一幸:
+3. 中井大志, 櫻井晶, 首藤一幸:
    "半減期がある状況での二重支払い攻撃の経済合理性",
    電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-87, pp.79-85,
    2024年 3月 12日〜14日
 
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
-3. 田中秀昌, 廣中詩織, 首藤一幸:
+4. 田中秀昌, 廣中詩織, 首藤一幸:
    "DPoSブロックチェーンにおける報酬率に関わる要素の分析",
    電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-84, pp.59-65,
    2024年 3月 12日〜14日
 
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
-4. 櫻井晶, 首藤一幸:
+5. 櫻井晶, 首藤一幸:
    "ブロックチェーンにおけるマイニング公平性の定量的な解析",
    電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-83, pp.54-58,<br>
    2024年 3月 12日〜14日
 
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
-5. 増田真之介, 長谷川毅, 中井大志, 櫻井晶, 首藤一幸:
+6. 増田真之介, 長谷川毅, 中井大志, 櫻井晶, 首藤一幸:
    "Compact Block Relayにおける高帯域ノード選択方式",
    電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-82, pp.48-53,
    2024年 3月 12日〜14日
 
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
-6. Changle Wan, Kazuyuki Shudo:
+7. Changle Wan, Kazuyuki Shudo:
    "Rerouting Tip Algorithm to Bypass Conflicting Transactions in Tangle",
    電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-81, pp.43-47,
    2024年 3月 12日〜14日
 
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
-7. 宮下陸矢, 廣中詩織, 首藤一幸: "局所的な密度の指標として機能するハイパーグラフ向けクラスタ係数", 第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)), 2024年 2月 28日〜3月 5日
-8. 長谷川毅, 廣中詩織, 首藤一幸: "隣接ノードのプロパティを利用するランダムウォークベースのグラフ特徴量推定", 第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)), 2024年 2月 28日〜3月 5日
-9. 廣中詩織, 林駆, 吉田光男, 首藤一幸: "XとMastodonへ投稿されるトピックの比較", 第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)), 2024年 2月 28日〜3月 5日
-10. 中井大志, 櫻井晶, 廣中詩織, 首藤一幸: "ブロックチェーントリレンマの数理的記述", ポスター発表, 京都大学 第18回 ICTイノベーション, 2024年 2月 21日
-11. 中井大志, 廣中詩織, 首藤一幸: "ブロックチェーントリレンマの数理的定式化", 2024年 暗号と情報セキュリティシンポジウム ([SCIS 2024](https://www.iwsec.org/scis/2024/)) 論文集, 2024年 1月 23日〜26日
-12. 櫻井晶, 首藤一幸: "ブロックチェーンにおけるPartial Proof of Workに基づくチェーン競合解消ルール", 2024年 暗号と情報セキュリティシンポジウム ([SCIS 2024](https://www.iwsec.org/scis/2024/)) 論文集, 2024年 1月 23日〜26日
+8. 宮下陸矢, 廣中詩織, 首藤一幸: "局所的な密度の指標として機能するハイパーグラフ向けクラスタ係数", 第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)), 2024年 2月 28日〜3月 5日
+9. 長谷川毅, 廣中詩織, 首藤一幸: "隣接ノードのプロパティを利用するランダムウォークベースのグラフ特徴量推定", 第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)), 2024年 2月 28日〜3月 5日
+10. 廣中詩織, 林駆, 吉田光男, 首藤一幸: "XとMastodonへ投稿されるトピックの比較", 第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)), 2024年 2月 28日〜3月 5日
+11. 中井大志, 櫻井晶, 廣中詩織, 首藤一幸: "ブロックチェーントリレンマの数理的記述", ポスター発表, 京都大学 第18回 ICTイノベーション, 2024年 2月 21日
+12. 中井大志, 廣中詩織, 首藤一幸: "ブロックチェーントリレンマの数理的定式化", 2024年 暗号と情報セキュリティシンポジウム ([SCIS 2024](https://www.iwsec.org/scis/2024/)) 論文集, 2024年 1月 23日〜26日
+13. 櫻井晶, 首藤一幸: "ブロックチェーンにおけるPartial Proof of Workに基づくチェーン競合解消ルール", 2024年 暗号と情報セキュリティシンポジウム ([SCIS 2024](https://www.iwsec.org/scis/2024/)) 論文集, 2024年 1月 23日〜26日
 
 ### 2023
 
