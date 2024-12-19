@@ -7,6 +7,6 @@ draft: false
 
 Akira Sakurai, Kazuyuki Shudo:
 "Tie-Breaking Rule Based on Partial Proof of Work in a Blockchain",
-IEEE Access, Vol.12, 2024年年 (accepted)
+IEEE Access, Vol.12, 2024年 (accepted)
 
 ブロックチェーンでフォークが起きた際に、メインのチェーンを一意に決める新手法の論文です。
