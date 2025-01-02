@@ -20,7 +20,7 @@ toc: true
       2024年 12月 15日
 
    * 論文 (草稿):
-     <a href="http://www.shudo.net/publications/202412-ABCSS-2024-Fediverse/hironaka-ABCSS-2024-Fediverse.pdf"><tt>hironaka-ABCSS-2024-Fediverse.pdf</tt></a> (PDF ファイル, 921 KiB)
+     [hironaka-ABCSS-2024-Fediverse.pdf](http://www.shudo.net/publications/202412-ABCSS-2024-Fediverse/hironaka-ABCSS-2024-Fediverse.pdf) (PDF ファイル, 921 KiB)
 3. Tsuyoshi Hasegawa, Shiori Hironaka, Kazuyuki Shudo:<br>
    "Estimation of Graph Features Based on Random Walks Using Neighbors' Properties",<br>
    Proc. 25th Int'l Conf. on Web Information Systems Engineering (WISE 2024), LNCS 15437, pp.456-466,
