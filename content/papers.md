@@ -949,7 +949,13 @@ toc: true
 
 ### 2025
 
-1. 中井大志 ("高い分権性が51%攻撃耐性を高めるとは限らない"):
+1. Taishi Nakai ("The More Halving Advances, the More Rational Double Spending Attack is"):
+   Best Session Presentation Award, IEEE ICCE 2025,
+   2025年 1月 13日
+
+   * 当該セッションの発表 5件から 1件
+
+2. 中井大志 ("高い分権性が51%攻撃耐性を高めるとは限らない"):
    情報セキュリティ研究奨励賞, 電子情報通信学会 情報セキュリティ (ISEC) 研究会,
    2025年 1月
 
