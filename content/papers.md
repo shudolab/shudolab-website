@@ -6,6 +6,29 @@ toc: true
 ---
 ## Refereed Papers
 
+### 2025
+
+1. Taishi Nakai, Akira Sakurai, Kazuyuki Shudo:<br>
+   "The More Halving Advances, the More Rational Double Spending Attack is",<br>
+   Proc. IEEE 43rd Int'l Conf. on Consumer Electronics (IEEE ICCE 2025),<br>
+   2025年 1月 11〜14日
+
+   * 論文 (草稿): [nakai-ICCE-2025-halving.pdf](http://www.shudo.net/publications/202501-ICCE-2025-halving/nakai-ICCE-2025-halving.pdf) (PDF ファイル, 1012 KiB)
+
+2. Shinnosuke Masuda, Kazuyuki Shudo:<br>
+   "Loss Based Byzantine Resilience for Decentralized Learning",<br>
+   Proc. IEEE 43rd Int'l Conf. on Consumer Electronics (IEEE ICCE 2025),<br>
+   2025年 1月 11〜14日
+   * 論文 (草稿): [masuda-ICCE-2025-decentralized-learning.pdf](http://www.shudo.net/publications/202501-ICCE-2025-decentralized-learning/masuda-ICCE-2025-decentralized-learning.pdf) (PDF ファイル, 841 KiB)
+
+3. Shinnosuke Masuda, Tsuyoshi Hasegawa, Kazuyuki Shudo, Kenjiro Cho:<br>
+   "Balancing Computing and Networking in Autonomous Edge Clouds",<br>
+   Proc. 22nd IEEE Consumer Communications & Networking Conference (IEEE CCNC 2025), pp.536-542,<br>
+   2025年 1月 10〜13日 (投稿 353件, 採択 123件)
+
+   * スライド: [ウェブページ](http://www.shudo.net/publications/202501-CCNC-2025-Cloud-Morphing/) (21 pages, HTML)
+   * 論文 (草稿): [masuda-CCNC-2025-Cloud-Morphing.pdf](http://www.shudo.net/publications/202501-CCNC-2025-Cloud-Morphing/masuda-CCNC-2025-Cloud-Morphing.pdf) (PDF ファイル, 1478 KiB)
+
 ### 2024
 
 1.  Akira Sakurai, Kazuyuki Shudo:<br>
@@ -21,38 +44,44 @@ toc: true
 
    * 論文 (草稿):
      [hironaka-ABCSS-2024-Fediverse.pdf](http://www.shudo.net/publications/202412-ABCSS-2024-Fediverse/hironaka-ABCSS-2024-Fediverse.pdf) (PDF ファイル, 921 KiB)
+
 3. Tsuyoshi Hasegawa, Shiori Hironaka, Kazuyuki Shudo:<br>
    "Estimation of Graph Features Based on Random Walks Using Neighbors' Properties",<br>
-   Proc. 25th Int'l Conf. on Web Information Systems Engineering (WISE 2024), LNCS 15437, pp.456-466,
+   Proc. 25th Int'l Conf. on Web Information Systems Engineering (WISE 2024), LNCS 15437, pp.456-466,<br>
    2024年 12月 2〜5日 (short paper, 投稿 368件, full/short paper 採択 165件)
 
    * [DOI:10.1007/978-981-96-0567-5_32](https://doi.org/10.1007/978-981-96-0567-5_32)
    * 拡張版: [arXiv:2409.08599](https://arxiv.org/abs/2409.08599), 2024年 9月 16日
    * 論文 (草稿): [hasegawa-WISE-2024-random-walk.pdf](http://www.shudo.net/publications/202412-WISE-2024-random-walk/hasegawa-WISE-2024-random-walk.pdf)  (PDF ファイル, 1282 KiB)
+
 4. Yuto Takei, Kazuyuki Shudo:<br>
    "Effective Ethereum Staking in Cryptocurrency Exchanges",<br>
    Proc. 7th IEEE Int'l Conf. on Blockchain (IEEE Blockchain 2024),<br>
    2024年 8月 19～22日 (short paper, 投稿 180件, regular/short paper 採択 49件)
 
    * 論文 (草稿): [takei-Blockchain-2024-staking.pdf](http://www.shudo.net/publications/202408-Blockchain-2024-staking/takei-Blockchain-2024-staking.pdf) (PDF ファイル, 791 KiB)
+
 5. Hidemasa Tanaka, Shiori Hironaka, Kazuyuki Shudo:<br>
    "Correlation Analysis of Reward Rate in a DPoS Blockchain"<br>
    Proc. 7th IEEE Int'l Conf. on Blockchain (IEEE Blockchain 2024, FBS2024),<br>
    2024年 8月 19～22日 (workshop paper)
 
    * 論文 (草稿): [tanaka-Blockchain-2024-DPoS.pdf](http://www.shudo.net/publications/202408-Blockchain-2024-DPoS/tanaka-Blockchain-2024-DPoS.pdf) (PDF ファイル, 951 KiB)
+
 6. Shinnosuke Masuda, Taishi Nakai, Tsuyoshi Hasegawa, Akira Sakurai, Kazuyuki Shudo:<br>
    "High-Bandwidth Node Selection in Compact Block Relay"<br>
    Proc. 20th IEEE Int'l Conf. on Green Computing and Communications (IEEE GreenCom 2024, Int'l Workshop on Recent Advancement in Green Computing),<br>
    2024年 8月 19～22日 (workshop paper)
 
    * 論文 (草稿): [masuda-GreenCom-2024-CBR.pdf](http://www.shudo.net/publications/202408-GreenCom-2024-CBR/masuda-GreenCom-2024-CBR.pdf) (PDF ファイル, 1057 KiB)
+
 7. Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo:<br>
    "A Formulation of the Trilemma in Proof of Work Blockchain",<br>
    IEEE Access, Vol.12, pp.80559-80578,<br>
    2024年 6月 5日
 
    * [DOI:10.1109/ACCESS.2024.3410025](https://doi.org/10.1109/ACCESS.2024.3410025)[](https://doi.org/10.1109/ACCESS.2024.3410025)
+
 8. Yuto Takei, Kazuyuki Shudo:<br>
    "Pragmatic Analysis of Key Management for Cryptocurrency Custodians",<br>
    Proc. 2024 IEEE Int'l Conf. on Blockchain and Cryptocurrency (<a href="http://icbc2024.ieee-icbc.org/">IEEE ICBC 2024</a>), pp.524-542,<br>
@@ -60,6 +89,7 @@ toc: true
 
    * スライド: [ウェブページ](http://www.shudo.net/publications/202405-ICBC-2024-key-mgmt/) (19 pages, HTML)
    * 論文 (草稿): [takei-ICBC-2024-key-mgmt.pdf](http://www.shudo.net/publications/202405-ICBC-2024-key-mgmt/takei-ICBC-2024-key-mgmt.pdf) (PDF ファイル, 987 KiB)
+
 9. Yuto Takei, Kazuyuki Shudo:<br>
    "FATF Travel Rule’s Technical Challenges and Solution Taxonomy",<br>
    Proc. 2024 IEEE Int'l Conf. on Blockchain and Cryptocurrency (<a href="http://icbc2024.ieee-icbc.org/">IEEE ICBC 2024</a>), pp.729-744,<br>
@@ -67,12 +97,14 @@ toc: true
 
    * スライド: [ウェブページ](http://www.shudo.net/publications/202405-ICBC-2024-FATF-travel-rule/) (12 pages, HTML)
    * 論文 (草稿): [takei-ICBC-2024-FATF-travel-rule.pdf](http://www.shudo.net/publications/202405-ICBC-2024-FATF-travel-rule/takei-ICBC-2024-FATF-travel-rule.pdf) (PDF ファイル, 968 KiB)
+
 10. Hidemasa Tanaka, Shiori Hironaka, Kazuyuki Shudo: <br>
     "Quantitative Analysis of the Reward Rate Disparity Among Delegators in a DPoS Blockchain",<br>
     Proc. 2024 IEEE Int'l Conf. on Big Data and Smart Computing ([IEEE BigComp 2024](http://bigcomputing.org/conf2024/)), pp.136-142,<br>
     2024年 2月 18日〜21日 (full paper, 投稿 126件, 採択 full paper 41件)
 
     * 論文 (草稿): [tanaka-BigComp-2024-DPoS.pdf](http://www.shudo.net/publications/202402-BigComp-2024-DPoS/tanaka-BigComp-2024-DPoS.pdf) (PDF ファイル, 1778 KiB)
+
 11. Taishi Nakai, Kazuyuki Shudo:<br>
     "Impacts on Fork Rate of Changes of Block Size and Block Generation Time for Blockchain Scalability",<br>
     Proc. IEEE 42nd Inte'l Conf. on Consumer Electronics ([IEEE ICCE 2024](https://icce.org/2024/)),<br>
