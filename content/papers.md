@@ -110,7 +110,7 @@ toc: true
     Proc. IEEE 42nd Inte'l Conf. on Consumer Electronics ([IEEE ICCE 2024](https://icce.org/2024/)),<br>
     2024年 1月 5〜8日
 
-* 論文 (草稿): [nakai-ICCE-2024-fork-rate.pdf](http://www.shudo.net/publications/202401-ICCE-2024-fork-rate/nakai-ICCE-2024-fork-rate.pdf) (PDF ファイル, 207 KiB)
+    * 論文 (草稿): [nakai-ICCE-2024-fork-rate.pdf](http://www.shudo.net/publications/202401-ICCE-2024-fork-rate/nakai-ICCE-2024-fork-rate.pdf) (PDF ファイル, 207 KiB)
 
 ### 2023
 
