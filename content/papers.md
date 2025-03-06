@@ -179,7 +179,10 @@ toc: true
 
 ### 2022
 
-1. Kazuki Nakajima, Kazuyuki Shudo: "Random walk sampling in social networks involving private nodes", ACM Transactions on Knowledge Discovery from Data (TKDD), 2022年 9月 6日
+1. Kazuki Nakajima, Kazuyuki Shudo:<br>
+   "Random walk sampling in social networks involving private nodes",<br>
+   ACM Transactions on Knowledge Discovery from Data (TKDD),<br>
+   2022年 9月 6日
 
    * [DOI:10.1145/3561388](https://doi.org/10.1145/3561388)
 2. Yuya Miki, Kazuyuki Shudo: "A Distributed Clock Synchronization Protocol for Proof of Stake Blockchains", Proc. 5th IEEE Int'l Conf. on Blockchain ([IEEE Blockchain 2022](http://www.blockchain-ieee.org/)), pp.132-138, 2022年 8月 22〜25日 (regular paper, 投稿 139件, regular paper 採択 21件)
@@ -452,67 +455,108 @@ toc: true
 
 ### 2025
 
-1. 長谷川毅, 上田結大, 首藤一幸, 海野弘成, 佐野正浩, 曾川景介:
-   "ライドシェアリングシミュレータとその活用",
-   第17回データ工学と情報マネジメントに関するフォーラム (DEIM 2025),
+1. 上田結大, 櫻井晶, 首藤一幸:<br>
+   "Compact Block Relayにおけるモード選択がマイニング収益に与える影響",<br>
+   電子情報通信学会 技術研究報告, Vol.124, No.419, NS2024-215, pp.119-122,<br>
+   2025年 3月 6日〜7日
+
+   * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=4d814b872960fd02e954bd500fdb3b49e11ec0f7a423aaa7f97ffb68a5e6af4b&tgid=IEICE-NS)
+2. 長谷川毅, 上田結大, 首藤一幸, 海野弘成, 佐野正浩, 曾川景介:<br>
+   "ライドシェアリングシミュレータとその活用",<br>
+   第17回データ工学と情報マネジメントに関するフォーラム (DEIM 2025),<br>
    2025年 2月 27日～3月 4日
 
-2. 長谷川毅, 上田結大, 首藤一幸, 海野弘成, 佐野正浩, 曾川景介:
-   "ライドシェアリングにおけるマッチング方式の比較",
-   第17回データ工学と情報マネジメントに関するフォーラム (DEIM 2025),
+3. 長谷川毅, 上田結大, 首藤一幸, 海野弘成, 佐野正浩, 曾川景介:<br>
+   "ライドシェアリングにおけるマッチング方式の比較",<br>
+   第17回データ工学と情報マネジメントに関するフォーラム (DEIM 2025),<br>
    2025年 2月 27日～3月 4日
 
-3. 櫻井晶, 首藤一幸:
-   "複数のブロックチェーンを用いる分散マイニングプール",
-   2025年 暗号と情報セキュリティシンポジウム (SCIS 2025) 論文集,
+11. 中井大志, 首藤一幸:<br>
+   "高い分権性が51%攻撃耐性を必ずしも上げるとは限らない",<br>
+   ポスター発表, 京都大学 第19回 ICTイノベーション,<br>
+   2025年 2月 19日
+
+4. 櫻井晶, 首藤一幸:<br>
+   "複数のブロックチェーンを用いる分散マイニングプール",<br>
+   2025年 暗号と情報セキュリティシンポジウム (SCIS 2025) 論文集,<br>
    2025年 1月 28日〜31日
 
 ### 2024
 
-1. 中井大志:
-   "ブロックチェーンにおけるトリレンマの数理的定式化とそのインパクト",
-   分散台帳とその応用技術特別研究会 (RC-94) 2024年度第3回会合, (一財)生産技術研究奨励会,
+1. 中井大志:<br>
+   "ブロックチェーンにおけるトリレンマの数理的定式化とそのインパクト",<br>
+   分散台帳とその応用技術特別研究会 (RC-94) 2024年度第3回会合, (一財)生産技術研究奨励会,<br>
    2024年 12月 2日
-2. Tsuyoshi Hasegawa, Masuda Shinnosuke, Kazuyuki Shudo, Kenjiro Cho:
-   "Visualization of Drones and Servers in an Autonomous Edge Cloud",
-   Poster, 19th Asian Internet Engineering Conference ([AINTEC 2024](https://interlab.ait.ac.th/aintec2024)),
+
+2. Tsuyoshi Hasegawa, Masuda Shinnosuke, Kazuyuki Shudo, Kenjiro Cho:<br>
+   "Visualization of Drones and Servers in an Autonomous Edge Cloud",<br>
+   Poster, 19th Asian Internet Engineering Conference ([AINTEC 2024](https://interlab.ait.ac.th/aintec2024)),<br>
    2024年 8月 9日
-3. 中井大志, 櫻井晶, 首藤一幸:
-   "半減期がある状況での二重支払い攻撃の経済合理性",
-   電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-87, pp.79-85,
+
+3. 中井大志, 櫻井晶, 首藤一幸:<br>
+   "半減期がある状況での二重支払い攻撃の経済合理性",<br>
+   電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-87, pp.79-85,<br>
    2024年 3月 12日〜14日
 
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
-4. 田中秀昌, 廣中詩織, 首藤一幸:
-   "DPoSブロックチェーンにおける報酬率に関わる要素の分析",
-   電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-84, pp.59-65,
+
+4. 田中秀昌, 廣中詩織, 首藤一幸:<br>
+   "DPoSブロックチェーンにおける報酬率に関わる要素の分析",<br>
+   電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-84, pp.59-65,<br>
    2024年 3月 12日〜14日
 
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
-5. 櫻井晶, 首藤一幸:
-   "ブロックチェーンにおけるマイニング公平性の定量的な解析",
-   電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-83, pp.54-58,<br>
+
+5. 櫻井晶, 首藤一幸:<br>
+   "ブロックチェーンにおけるマイニング公平性の定量的な解析",<br>
+   電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-83, pp.54-58,<br><br>
    2024年 3月 12日〜14日
 
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
-6. 増田真之介, 長谷川毅, 中井大志, 櫻井晶, 首藤一幸:
-   "Compact Block Relayにおける高帯域ノード選択方式",
-   電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-82, pp.48-53,
+
+6. 増田真之介, 長谷川毅, 中井大志, 櫻井晶, 首藤一幸:<br>
+   "Compact Block Relayにおける高帯域ノード選択方式",<br>
+   電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-82, pp.48-53,<br>
    2024年 3月 12日〜14日
 
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
-7. Changle Wan, Kazuyuki Shudo:
-   "Rerouting Tip Algorithm to Bypass Conflicting Transactions in Tangle",
-   電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-81, pp.43-47,
+
+7. Changle Wan, Kazuyuki Shudo:<br>
+   "Rerouting Tip Algorithm to Bypass Conflicting Transactions in Tangle",<br>
+   電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-81, pp.43-47,<br>
    2024年 3月 12日〜14日
 
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
-8. 宮下陸矢, 廣中詩織, 首藤一幸: "局所的な密度の指標として機能するハイパーグラフ向けクラスタ係数", 第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)), 2024年 2月 28日〜3月 5日
-9. 長谷川毅, 廣中詩織, 首藤一幸: "隣接ノードのプロパティを利用するランダムウォークベースのグラフ特徴量推定", 第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)), 2024年 2月 28日〜3月 5日
-10. 廣中詩織, 林駆, 吉田光男, 首藤一幸: "XとMastodonへ投稿されるトピックの比較", 第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)), 2024年 2月 28日〜3月 5日
-11. 中井大志, 櫻井晶, 廣中詩織, 首藤一幸: "ブロックチェーントリレンマの数理的記述", ポスター発表, 京都大学 第18回 ICTイノベーション, 2024年 2月 21日
-12. 中井大志, 廣中詩織, 首藤一幸: "ブロックチェーントリレンマの数理的定式化", 2024年 暗号と情報セキュリティシンポジウム ([SCIS 2024](https://www.iwsec.org/scis/2024/)) 論文集, 2024年 1月 23日〜26日
-13. 櫻井晶, 首藤一幸: "ブロックチェーンにおけるPartial Proof of Workに基づくチェーン競合解消ルール", 2024年 暗号と情報セキュリティシンポジウム ([SCIS 2024](https://www.iwsec.org/scis/2024/)) 論文集, 2024年 1月 23日〜26日
+
+8. 宮下陸矢, 廣中詩織, 首藤一幸:<br>
+   "局所的な密度の指標として機能するハイパーグラフ向けクラスタ係数",<br>
+   第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)),<br>
+   2024年 2月 28日〜3月 5日
+
+9. 長谷川毅, 廣中詩織, 首藤一幸:<br>
+   "隣接ノードのプロパティを利用するランダムウォークベースのグラフ特徴量推定",<br>
+   第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)),<br>
+   2024年 2月 28日〜3月 5日
+
+10. 廣中詩織, 林駆, 吉田光男, 首藤一幸:<br>
+   "XとMastodonへ投稿されるトピックの比較",<br>
+   第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)),<br>
+   2024年 2月 28日〜3月 5日
+
+11. 中井大志, 櫻井晶, 廣中詩織, 首藤一幸:<br>
+   "ブロックチェーントリレンマの数理的記述",<br>
+   ポスター発表, 京都大学 第18回 ICTイノベーション,<br>
+   2024年 2月 21日
+
+12. 中井大志, 廣中詩織, 首藤一幸:<br>
+   "ブロックチェーントリレンマの数理的定式化",<br>
+   2024年 暗号と情報セキュリティシンポジウム ([SCIS 2024](https://www.iwsec.org/scis/2024/)) 論文集,<br>
+   2024年 1月 23日〜26日
+
+13. 櫻井晶, 首藤一幸:<br>
+   "ブロックチェーンにおけるPartial Proof of Workに基づくチェーン競合解消ルール",<br>
+   2024年 暗号と情報セキュリティシンポジウム ([SCIS 2024](https://www.iwsec.org/scis/2024/)) 論文集,<br>
+   2024年 1月 23日〜26日
 
 ### 2023
 
@@ -998,22 +1042,22 @@ toc: true
 
 ### 2025
 
-1. Taishi Nakai ("The More Halving Advances, the More Rational Double Spending Attack is"):
+1. 中井大志 ("高い分権性が51%攻撃耐性を必ずしも上げるとは限らない"): 優秀研究賞, 京都大学 第19回 ICTイノベーション, 2025年 2月 19日
+
+   * 京都大学 ICT 連携推進ネットワーク: 第19回 ICT イノベーション > [優秀研究賞](https://ict-nw.i.kyoto-u.ac.jp/ict-innovation/19th/優秀研究賞/)
+
+2. Taishi Nakai ("The More Halving Advances, the More Rational Double Spending Attack is"):
    Best Session Presentation Award, IEEE ICCE 2025,
    2025年 1月 13日
 
    * 当該セッションの発表 5件から 1件
 
-2. 中井大志 ("高い分権性が51%攻撃耐性を高めるとは限らない"):
+3. 中井大志 ("高い分権性が51%攻撃耐性を高めるとは限らない"):
    情報セキュリティ研究奨励賞, 電子情報通信学会 情報セキュリティ (ISEC) 研究会,
    2025年 1月
 
    * 情報セキュリティ研究会での 2024年の発表の登壇者で、講演時点で 35歳未満の者。 受賞候補者数の30%以下。
    * 情報セキュリティ研究会: [情報セキュリティ研究奨励賞について](https://www.ieice.org/~isec/award-encouragement.html)
-
-3. 中井大志 ("高い分権性が51%攻撃耐性を必ずしも上げるとは限らない"): 優秀研究賞, 京都大学 第19回 ICTイノベーション, 2025年 2月 19日
-
-   * 京都大学 ICT 連携推進ネットワーク: 第19回 ICT イノベーション > [優秀研究賞](https://ict-nw.i.kyoto-u.ac.jp/ict-innovation/19th/優秀研究賞/)
 
 ### 2024
 
@@ -1022,31 +1066,37 @@ toc: true
    2024年 10月 25日
 
    * CSS 2024 の論文 269件から 2件
+
 2. 中井大志 ("ブロックチェーントリレンマの数理的定式化"):
    SCIS 論文賞, 電子情報通信学会 情報セキュリティ (ISEC) 研究専門委員会,
    2025年 1月 (2024年 7月 3日通知)
 
    * 対象 228件から 8件
    * 規程：SCIS 2024において発表を行った若手（かつSCIS論文賞を未受賞）の講演者で、発表件数の4%程度。若手とは主に学部在学中もしくは学部卒業後10年以内を指す。
+
 3. 中井大志, 櫻井晶, 廣中詩織, 首藤一幸 ("ブロックチェーントリレンマの数理的記述"):
    2023年度 インターネットアーキテクチャ優秀研究賞, 電子情報通信学会 インターネットアーキテクチャ研究専門委員会,
    2024年 6月 17日
 
    * 2023年度の発表 100件から (最優秀研究賞も合わせて) 4件
      インターネットアーキテクチャ研究会: インターネットアーキテクチャ研究賞
+
 4. 中井大志 ("半減期がある状況での二重支払い攻撃の経済合理性"):
    インターネットアーキテクチャ研究会学生研究奨励賞, インターネットアーキテクチャ研究会 2023年度 第7回研究会,
    2024年 3月 12日〜14日
 
    * 受賞条件: 第一著者かつ発表者であり、最後まで参加した者
+
 5. 増田真之介 ("Compact Block Relayにおける高帯域ノード選択方式"):
    インターネットアーキテクチャ研究会学生研究奨励賞, インターネットアーキテクチャ研究会 2023年度 第7回研究会,
    2024年 3月 12日〜14日
 
    * 受賞条件: 第一著者かつ発表者であり、最後まで参加した者
+
 6. 長谷川毅 ("隣接ノードのプロパティを利用するランダムウォークベースのグラフ特徴量推定"): 学生プレゼンテーション賞, 第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)), 2024年 2月 28日〜3月 5日
 
    * 当該セッションの発表 4件から 1件
+
 7. 中井大志 ("ブロックチェーントリレンマの数理的記述"): 優秀研究賞, 京都大学 第18回 ICTイノベーション, 2024年 2月 21日
 
    * 55件から 8件。
