@@ -9,6 +9,7 @@ hideDate: true
 ## 教員
 
 - [首藤 一幸](http://www.shudo.net/index-j.html)
+- [小谷 大祐](https://kota.ninja/)
 - [廣中 詩織](https://elnikkis.github.io/)
 
 
