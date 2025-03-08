@@ -4,6 +4,15 @@ date: Tue, 18 Oct 2016 05:33:08 +0000
 draft: false
 toc: true
 ---
+## 2024年度
+
+### 修論
+
+* 長谷川 毅："隣接ノードの情報を利用するランダムウォークベースのグラフ特徴量推定"
+* 林 駆："ゲーム理論を用いたブロックチェーンマイナーの振る舞いの分析"
+* 増田 真之介："非集中型深層学習における損失値に基づく耐ビザンチン障害手法"
+* 万 長楽："Ash: Practical Byzantine Fault Tolerance Based on Directed Acyclic Graph"
+
 ## 2023年度
 
 ### 修論
