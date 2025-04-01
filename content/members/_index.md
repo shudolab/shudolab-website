@@ -39,7 +39,7 @@ hideDate: true
 - [坂野 遼平](/members/banno_ryohei/)
 
 
-## 卒業生
+## 修了生 / 卒業生
 
 - [竹井 悠人](/members/takei_yuto)（2025年3月 博士課程 修了）
 - 荒川 真澄（2025年4月 東京科学大 田中研へ）
