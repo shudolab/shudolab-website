@@ -1043,21 +1043,27 @@ toc: true
 
 ### 2025
 
-1. 長谷川毅 ("ライドシェアリングにおけるマッチング方式の比較"): 学生プレゼンテーション賞, 第17回データ工学と情報マネジメントに関するフォーラム ([DEIM 2025](https://confit.atlas.jp/guide/event/deim2025/top)), 2025年 2月 27日〜3月 4日
+1. 中井大志 ("A Formulation of the Trilemma in Proof of Work Blockchain"):
+第40回 電気通信普及財団賞 〜テレコムシステム技術学生賞〜 (入賞), (公財)電気通信普及財団,
+2025年 3月 28日
+
+   * 応募 22件から (最優秀賞と入賞合わせて) 6件
+
+2. 長谷川毅 ("ライドシェアリングにおけるマッチング方式の比較"): 学生プレゼンテーション賞, 第17回データ工学と情報マネジメントに関するフォーラム ([DEIM 2025](https://confit.atlas.jp/guide/event/deim2025/top)), 2025年 2月 27日〜3月 4日
 
    * 当該セッションの発表 3件から 1件
 
-2. 中井大志 ("高い分権性が51%攻撃耐性を必ずしも上げるとは限らない"): 優秀研究賞, 京都大学 第19回 ICTイノベーション, 2025年 2月 19日
+3. 中井大志 ("高い分権性が51%攻撃耐性を必ずしも上げるとは限らない"): 優秀研究賞, 京都大学 第19回 ICTイノベーション, 2025年 2月 19日
 
    * 京都大学 ICT 連携推進ネットワーク: 第19回 ICT イノベーション > [優秀研究賞](https://ict-nw.i.kyoto-u.ac.jp/ict-innovation/19th/優秀研究賞/)
 
-3. Taishi Nakai ("The More Halving Advances, the More Rational Double Spending Attack is"):
+4. Taishi Nakai ("The More Halving Advances, the More Rational Double Spending Attack is"):
    Best Session Presentation Award, IEEE ICCE 2025,
    2025年 1月 13日
 
    * 当該セッションの発表 5件から 1件
 
-4. 中井大志 ("高い分権性が51%攻撃耐性を高めるとは限らない"):
+5. 中井大志 ("高い分権性が51%攻撃耐性を高めるとは限らない"):
    情報セキュリティ研究奨励賞, 電子情報通信学会 情報セキュリティ (ISEC) 研究会,
    2025年 1月
 
