@@ -489,72 +489,91 @@ toc: true
    分散台帳とその応用技術特別研究会 (RC-94) 2024年度第3回会合, (一財)生産技術研究奨励会,<br>
    2024年 12月 2日
 
-2. Tsuyoshi Hasegawa, Masuda Shinnosuke, Kazuyuki Shudo, Kenjiro Cho:<br>
+2. 中井大志, 首藤一幸:<br>
+   "高い分権性が51%攻撃耐性を高めるとは限らない",<br>
+   電子情報通信学会 技術研究報告, Vol.124, No.255, ISEC2024-73, pp.71-78,<br>
+   2024年 11月 14日〜15日
+
+   * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=fb18fae664e7c25059f2c8aea5eefe9e2c39271839a8452005e99cdc11f83699&tgid=IEICE-ISEC)
+
+3. 増田真之介, 首藤一幸:<br>
+   "損失値に基づくビザンチン耐性分散型深層学習",<br>
+   電子情報通信学会 技術研究報告, Vol.124, No.255, ISEC2024-72, pp.66-70,<br>
+   2024年 11月 14日〜15日
+
+   * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=fb18fae664e7c25059f2c8aea5eefe9e2c39271839a8452005e99cdc11f83699&tgid=IEICE-ISEC)
+
+4. 中井大志, 首藤一幸:<br>
+   "高い分権性が51%攻撃耐性を上げるとは限らない",<br>
+   コンピュータセキュリティシンポジウム2024 ([CSS 2024](https://www.iwsec.org/css/2024/)) 予稿集,<br>
+   2024年 10月 22日〜25日 (CSS 2024 最優秀論文賞)
+
+5. Tsuyoshi Hasegawa, Masuda Shinnosuke, Kazuyuki Shudo, Kenjiro Cho:<br>
    "Visualization of Drones and Servers in an Autonomous Edge Cloud",<br>
    Poster, 19th Asian Internet Engineering Conference ([AINTEC 2024](https://interlab.ait.ac.th/aintec2024)),<br>
    2024年 8月 9日
 
-3. 中井大志, 櫻井晶, 首藤一幸:<br>
+6. 中井大志, 櫻井晶, 首藤一幸:<br>
    "半減期がある状況での二重支払い攻撃の経済合理性",<br>
    電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-87, pp.79-85,<br>
    2024年 3月 12日〜14日
 
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
 
-4. 田中秀昌, 廣中詩織, 首藤一幸:<br>
+7. 田中秀昌, 廣中詩織, 首藤一幸:<br>
    "DPoSブロックチェーンにおける報酬率に関わる要素の分析",<br>
    電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-84, pp.59-65,<br>
    2024年 3月 12日〜14日
 
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
 
-5. 櫻井晶, 首藤一幸:<br>
+8. 櫻井晶, 首藤一幸:<br>
    "ブロックチェーンにおけるマイニング公平性の定量的な解析",<br>
    電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-83, pp.54-58,<br><br>
    2024年 3月 12日〜14日
 
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
 
-6. 増田真之介, 長谷川毅, 中井大志, 櫻井晶, 首藤一幸:<br>
+9. 増田真之介, 長谷川毅, 中井大志, 櫻井晶, 首藤一幸:<br>
    "Compact Block Relayにおける高帯域ノード選択方式",<br>
    電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-82, pp.48-53,<br>
    2024年 3月 12日〜14日
 
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
 
-7. Changle Wan, Kazuyuki Shudo:<br>
+10. Changle Wan, Kazuyuki Shudo:<br>
    "Rerouting Tip Algorithm to Bypass Conflicting Transactions in Tangle",<br>
    電子情報通信学会 技術研究報告, Vol.123, No.422, IA2023-81, pp.43-47,<br>
    2024年 3月 12日〜14日
 
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=8ef85e5ff1af94b5f9a0653fe7fd3f1ea0325f604c5b240ec421c898f624dc6a&tgid=IEICE-IA)
 
-8. 宮下陸矢, 廣中詩織, 首藤一幸:<br>
+11. 宮下陸矢, 廣中詩織, 首藤一幸:<br>
    "局所的な密度の指標として機能するハイパーグラフ向けクラスタ係数",<br>
    第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)),<br>
    2024年 2月 28日〜3月 5日
 
-9. 長谷川毅, 廣中詩織, 首藤一幸:<br>
+12. 長谷川毅, 廣中詩織, 首藤一幸:<br>
    "隣接ノードのプロパティを利用するランダムウォークベースのグラフ特徴量推定",<br>
    第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)),<br>
    2024年 2月 28日〜3月 5日
 
-10. 廣中詩織, 林駆, 吉田光男, 首藤一幸:<br>
+13. 廣中詩織, 林駆, 吉田光男, 首藤一幸:<br>
    "XとMastodonへ投稿されるトピックの比較",<br>
    第16回データ工学と情報マネジメントに関するフォーラム ([DEIM 2024](https://confit.atlas.jp/guide/event/deim2024/top)),<br>
    2024年 2月 28日〜3月 5日
 
-11. 中井大志, 櫻井晶, 廣中詩織, 首藤一幸:<br>
+14. 中井大志, 櫻井晶, 廣中詩織, 首藤一幸:<br>
    "ブロックチェーントリレンマの数理的記述",<br>
    ポスター発表, 京都大学 第18回 ICTイノベーション,<br>
    2024年 2月 21日
 
-12. 中井大志, 廣中詩織, 首藤一幸:<br>
+15. 中井大志, 廣中詩織, 首藤一幸:<br>
    "ブロックチェーントリレンマの数理的定式化",<br>
    2024年 暗号と情報セキュリティシンポジウム ([SCIS 2024](https://www.iwsec.org/scis/2024/)) 論文集,<br>
    2024年 1月 23日〜26日
 
-13. 櫻井晶, 首藤一幸:<br>
+16. 櫻井晶, 首藤一幸:<br>
    "ブロックチェーンにおけるPartial Proof of Workに基づくチェーン競合解消ルール",<br>
    2024年 暗号と情報セキュリティシンポジウム ([SCIS 2024](https://www.iwsec.org/scis/2024/)) 論文集,<br>
    2024年 1月 23日〜26日
