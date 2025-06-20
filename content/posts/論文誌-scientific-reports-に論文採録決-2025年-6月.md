@@ -1,7 +1,7 @@
 ---
 title: 論文誌 Scientific Reports に論文採録決 (2025年 6月)
 date: 2025-06-20T23:53:00+09:00
-draft: true
+draft: false
 ---
 宮下（2023年度修士2年）、廣中、首藤の論文が論文誌 Scientific Reports に採録決定しました。
 
