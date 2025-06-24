@@ -63,7 +63,7 @@ toc: true
    * 論文 (草稿): [takei-Blockchain-2024-staking.pdf](http://www.shudo.net/publications/202408-Blockchain-2024-staking/takei-Blockchain-2024-staking.pdf) (PDF ファイル, 791 KiB)
 
 5. Hidemasa Tanaka, Shiori Hironaka, Kazuyuki Shudo:<br>
-   "Correlation Analysis of Reward Rate in a DPoS Blockchain"<br>
+   "Correlation Analysis of Reward Rate in a DPoS Blockchain",<br>
    Proc. 7th IEEE Int'l Conf. on Blockchain (IEEE Blockchain 2024, FBS2024),<br>
    2024年 8月 19～22日 (workshop paper)
 
