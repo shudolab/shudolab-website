@@ -70,7 +70,7 @@ toc: true
    * 論文 (草稿): [tanaka-Blockchain-2024-DPoS.pdf](http://www.shudo.net/publications/202408-Blockchain-2024-DPoS/tanaka-Blockchain-2024-DPoS.pdf) (PDF ファイル, 951 KiB)
 
 6. Shinnosuke Masuda, Taishi Nakai, Tsuyoshi Hasegawa, Akira Sakurai, Kazuyuki Shudo:<br>
-   "High-Bandwidth Node Selection in Compact Block Relay"<br>
+   "High-Bandwidth Node Selection in Compact Block Relay",<br>
    Proc. 20th IEEE Int'l Conf. on Green Computing and Communications (IEEE GreenCom 2024, Int'l Workshop on Recent Advancement in Green Computing),<br>
    2024年 8月 19～22日 (workshop paper)
 
