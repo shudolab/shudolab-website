@@ -1,5 +1,5 @@
 ---
-title: 論文誌 Scientific Reports に論文採録決 (2025年 6月)
+title: 論文誌 Scientific Reports に論文採録決定 (2025年 6月)
 date: 2025-06-20T23:53:00+09:00
 draft: false
 ---
