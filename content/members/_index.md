@@ -21,7 +21,7 @@ hideDate: true
 ## 博士課程
 
 - 櫻井 晶
-- [中井 大志](/members/taishi_nakai/)
+- [中井 大志](https://0xnakai.github.io/index.html)
 - 増田 真之介
 
 ## 修士課程
