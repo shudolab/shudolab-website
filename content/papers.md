@@ -487,59 +487,69 @@ Proc. 29th Int'l Symposium on Distributed Simulation and Real Time Applications 
 
 ### 2025
 
-1. 前田史親, 櫻井晶, 中井大志, 首藤一幸:<br>
+1. 高柳慶太郎, 廣中詩織, 首藤一幸:<br>
+   "ソーシャルネットワークにおける人口の偏りを考慮した地理的選好の測定",<br>
+   第21回 Webインテリジェンスとインタラクション (WI2) 研究会 ([案内ページ](https://www.sigwi2.org/cfano21.html)),<br>
+   2025年 11月 2〜5日
+
+2. Zibo Xu, Akira Sakurai, Taishi Nakai, Kazuyuki Shudo:<br>
+   "Common Ancestor: A Composable Tie-Breaking Property and Its Application in Defending Against Stubborn Mining Attacks",<br>
+   コンピュータセキュリティシンポジウム2025 ([CSS 2025](https://www.iwsec.org/css/2025/)) 予稿集,<br>
+   2025年 10月 27〜31日
+
+3. 前田史親, 櫻井晶, 中井大志, 首藤一幸:<br>
    "ネットワークトポロジーがBitcoinマイニングに与える影響",<br>
    電子情報通信学会 技術研究報告, Vol.125, No.178, IA2025-29, pp.82-89,<br>
    2025年 9月 16～17日
 
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=c24a88ed46bf653f988b0d9be80887d8227ed30867e9b819e10cb74c0ea0fdff&tgid=IEICE-IA)
 
-2. 増田真之介, 廣中詩織, 首藤一幸:<br>
+4. 増田真之介, 廣中詩織, 首藤一幸:<br>
    "連合学習における貢献度指標としての独立学習精度の妥当性検証",<br>
    電子情報通信学会 技術研究報告, Vol.125, No.178, IA2025-16, pp.1-4,<br>
    2025年 9月 16～17日
 
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=c24a88ed46bf653f988b0d9be80887d8227ed30867e9b819e10cb74c0ea0fdff&tgid=IEICE-IA)
 
-3. 中井大志:<br>
+5. 中井大志:<br>
    "Nakamoto-styleとBFT-styleの統一的なアルゴリズムに向けて",<br>
    第21回 情報科学ワークショップ,<br>
    2025年 9月 15～17日
 
-4. 中井大志, 首藤一幸:<br>
+6. 中井大志, 首藤一幸:<br>
    "ブロックチェーントリレンマ3要素に着目したNakamoto ConsensusとClassical Consensusの統一的な評価",<br>
    マルチメディア、分散、協調とモバイル [DICOMO 2025](http://www.dicomo.org/2025) シンポジウム論文集,<br>
    2025年 6月 25〜27日
 
-5. 櫻井晶, 首藤一幸:<br>
+7. 櫻井晶, 首藤一幸:<br>
    "ハッシュレートの分布とブロック伝播遅延がマイニング公平性に与える影響",<br>
    電子情報通信学会 技術研究報告, Vol.125, No.24, NS2025-29, pp.77-82,<br>
    2025年 5月 15日〜16日
 
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=327396e527da99b519ac9b0a69de5f9502379a9978b00ce87169d5a99ac1aa5c&tgid=IEICE-NS)
 
-6. 上田結大, 櫻井晶, 首藤一幸:<br>
+8. 上田結大, 櫻井晶, 首藤一幸:<br>
    "Compact Block Relayにおけるモード選択がマイニング収益に与える影響",<br>
    電子情報通信学会 技術研究報告, Vol.124, No.419, NS2024-215, pp.119-122,<br>
    2025年 3月 6日〜7日
 
    * 研究会 [プログラム](https://ken.ieice.org/ken/program/?tgs_regid=4d814b872960fd02e954bd500fdb3b49e11ec0f7a423aaa7f97ffb68a5e6af4b&tgid=IEICE-NS)
-7. 長谷川毅, 上田結大, 首藤一幸, 海野弘成, 佐野正浩, 曾川景介:<br>
+9. 長谷川毅, 上田結大, 首藤一幸, 海野弘成, 佐野正浩, 曾川景介:<br>
    "ライドシェアリングシミュレータとその活用",<br>
    第17回データ工学と情報マネジメントに関するフォーラム (DEIM 2025),<br>
    2025年 2月 27日～3月 4日
 
-8. 長谷川毅, 上田結大, 首藤一幸, 海野弘成, 佐野正浩, 曾川景介:<br>
+10. 長谷川毅, 上田結大, 首藤一幸, 海野弘成, 佐野正浩, 曾川景介:<br>
    "ライドシェアリングにおけるマッチング方式の比較",<br>
    第17回データ工学と情報マネジメントに関するフォーラム (DEIM 2025),<br>
    2025年 2月 27日～3月 4日 (学生プレゼンテーション賞)
 
-9. 中井大志, 首藤一幸:<br>
+11. 中井大志, 首藤一幸:<br>
    "高い分権性が51%攻撃耐性を必ずしも上げるとは限らない",<br>
    ポスター発表, 京都大学 第19回 ICTイノベーション,<br>
    2025年 2月 19日
 
-10. 櫻井晶, 首藤一幸:<br>
+12. 櫻井晶, 首藤一幸:<br>
    "複数のブロックチェーンを用いる分散マイニングプール",<br>
    2025年 暗号と情報セキュリティシンポジウム (SCIS 2025) 論文集,<br>
    2025年 1月 28日〜31日
@@ -1131,38 +1141,43 @@ Proc. 29th Int'l Symposium on Distributed Simulation and Real Time Applications 
 
 ### 2025
 
-1. 中井大志 ("A Formulation of the Trilemma in Proof of Work Blockchain"):
+1. 高柳慶太郎 ("ソーシャルネットワークにおける人口の偏りを考慮した地理的選好の測定"):
+   学生奨励賞,
+   第21回 Webインテリジェンスとインタラクション (WI2) 研究会,
+   2025年 11月 5日
+
+2. 中井大志 ("A Formulation of the Trilemma in Proof of Work Blockchain"):
    第40回 電気通信普及財団賞 〜テレコムシステム技術学生賞〜 (入賞), 
    (公財)電気通信普及財団,
    2025年 3月 28日
 
    * 応募 22件から (最優秀賞と入賞合わせて) 6件
 
-2. 中井大志:
+3. 中井大志:
    令和6年度 総長賞, 京都大学,
    2025年 3月 11日
 
    * 推薦 18件から (学業と課外活動合わせて) 7件
 
-3. 長谷川毅 ("ライドシェアリングにおけるマッチング方式の比較"):
+5. 長谷川毅 ("ライドシェアリングにおけるマッチング方式の比較"):
    学生プレゼンテーション賞,
    第17回データ工学と情報マネジメントに関するフォーラム ([DEIM 2025](https://confit.atlas.jp/guide/event/deim2025/top)),
    2025年 2月 27日〜3月 4日
 
    * 当該セッションの発表 3件から 1件
 
-4. 中井大志 ("高い分権性が51%攻撃耐性を必ずしも上げるとは限らない"): 優秀研究賞, 京都大学 第19回 ICTイノベーション, 2025年 2月 19日
+6. 中井大志 ("高い分権性が51%攻撃耐性を必ずしも上げるとは限らない"): 優秀研究賞, 京都大学 第19回 ICTイノベーション, 2025年 2月 19日
 
    * 33件から 6件。
    * 京都大学 ICT 連携推進ネットワーク: 第19回 ICT イノベーション > [優秀研究賞](https://ict-nw.i.kyoto-u.ac.jp/ict-innovation/19th/優秀研究賞/)
 
-5. Taishi Nakai ("The More Halving Advances, the More Rational Double Spending Attack is"):
+6. Taishi Nakai ("The More Halving Advances, the More Rational Double Spending Attack is"):
    Best Session Presentation Award, IEEE ICCE 2025,
    2025年 1月 13日
 
    * 当該セッションの発表 5件から 1件
 
-6. 中井大志 ("高い分権性が51%攻撃耐性を高めるとは限らない"):
+7. 中井大志 ("高い分権性が51%攻撃耐性を高めるとは限らない"):
    情報セキュリティ研究奨励賞, 電子情報通信学会 情報セキュリティ (ISEC) 研究会,
    2025年 1月
 
