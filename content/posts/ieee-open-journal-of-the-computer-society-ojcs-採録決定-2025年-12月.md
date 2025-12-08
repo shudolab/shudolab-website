@@ -8,4 +8,4 @@ IEEE Open Journal of the Computer Society (OJCS) に、櫻井 (D2)、首藤の�
 "Model-based Analysis of Mining Fairness in a Blockchain",
 IEEE Open Journal of the Computer Society (OJCS) (採録決定 / to be published)
 
-ブロックチェーンでのマイニングにおける公平性を算出する方法の提案。 local / global mining fairness と 2つの指標を提案。 前者は各マイナーの損得を表し、全体としての公平性を表します。
+ブロックチェーンでのマイニングにおける公平性を算出する方法の提案。round という概念を導入することで、各マイナーの損得である local mining fairness を正確に算出することに成功した。local mining fairness から、全体の公平性 global … を算出できる。
