@@ -8,58 +8,66 @@ toc: true
 
 ### 2025
 
-1. Keitaro Takayanagi, Shiori Hironaka, Kazuyuki Shudo:<br>
-   "Measuring Geographic Preferences in Social Networks Beyond Population Bias",
-   Proc. 10th Int'l Workshop on Application of Big Data for Computational Social Science (ABCSS 2025),
+1. Akira Sakurai, Kazuyuki Shudo:<br>
+   "Model-based Analysis of Mining Fairness in a Blockchain",<br>
+   IEEE Open Journal of the Computer Society (OJCS),<br>
+   2025年 12月 17日
+
+   * [DOI:10.1109/OJCS.2025.3644694](https://doi.org/10.1109/OJCS.2025.3644694)
+   * Preprint: [arXiv:2406.00595](https://arxiv.org/abs/2406.00595), 2024年 6月 2日
+
+2. Keitaro Takayanagi, Shiori Hironaka, Kazuyuki Shudo:<br>
+   "Measuring Geographic Preferences in Social Networks Beyond Population Bias",<br>
+   Proc. 10th Int'l Workshop on Application of Big Data for Computational Social Science (ABCSS 2025),<br>
    2025年 12月 9日
 
    * 論文 (草稿): [takayanagi-ABCSS-2025-geo-pref.pdf](http://www.shudo.net/publications/202512-ABCSS-2025-geo-pref/takayanagi-ABCSS-2025-geo-pref.pdf) (PDF ファイル, 1479 KiB)
 
-2. Kakeru Hayashi, Akira Sakurai, Kazuyuki Shudo:<br>
-   "An Experimental Analysis of Blockchain Mining Using Game Theory",
-   7th Int'l Conf. on Blockchain Computing and Applicatios (BCCA 2025),
+3. Kakeru Hayashi, Akira Sakurai, Kazuyuki Shudo:<br>
+   "An Experimental Analysis of Blockchain Mining Using Game Theory",<br>
+   7th Int'l Conf. on Blockchain Computing and Applicatios (BCCA 2025),<br>
    2025年 10月 14〜17日 (short paper)
 
    * 論文 (草稿): [hayashi-BCCA-2025-game-theory.pdf](http://www.shudo.net/publications/202510-BCCA-2025-game-theory/hayashi-BCCA-2025-game-theory.pdf) (PDF ファイル, 1180 KiB)
 
-3. Raiki Tamura, Daisuke Kotani, Kazuyuki Shudo, Yasuo Okabe:<br>
-   "Bringing Together Cross-ISA Checkpoint/Restoration and AOT Compiration of WebAssembly Programs",
-   22nd Int'l Conf. on Managed Programming Languages and Runtimes (MPLR 2025),
+4. Raiki Tamura, Daisuke Kotani, Kazuyuki Shudo, Yasuo Okabe:<br>
+   "Bringing Together Cross-ISA Checkpoint/Restoration and AOT Compiration of WebAssembly Programs",<br>
+   22nd Int'l Conf. on Managed Programming Languages and Runtimes (MPLR 2025),<br>
    2025年 10月 14日 (投稿 18件, 採択 11件)
 
    * [DOI:10.1145/3759426.3760985](https://doi.org/10.1145/3759426.3760985)
    * 論文 (草稿): [tamura-MPLR-2025-WASM.pdf](http://www.shudo.net/publications/202510-MPLR-2025-WASM/tamura-MPLR-2025-WASM.pdf) (PDF ファイル, 2694 KiB)
 
-4. Kazuyuki Shudo, Tsuyoshi Hasegawa, Yuito Ueda, Hiroshige Umino, Masahiro Sano, Keisuke Sogawa:<br>
+5. Kazuyuki Shudo, Tsuyoshi Hasegawa, Yuito Ueda, Hiroshige Umino, Masahiro Sano, Keisuke Sogawa:<br>
    "Ridesharing Simulation to Explore Matching Algorithms",
-Proc. 29th Int'l Symposium on Distributed Simulation and Real Time Applications (DS-RT 2025), pp.17-26,
+Proc. 29th Int'l Symposium on Distributed Simulation and Real Time Applications (DS-RT 2025), pp.17-26,<br>
    2025年 9月 17〜19日 (採択 regular paper 21件, 採択率 50% くらい)
 
    * スライド: [ウェブページ](http://www.shudo.net/publications/202509-DS-RT-2025-ridesharing/) (24 pages, HTML)
    * 論文 (草稿): [shudo-DS-RT-2025-ridesharing.pdf](http://www.shudo.net/publications/202509-DS-RT-2025-ridesharing/shudo-DS-RT-2025-ridesharing.pdf) (PDF ファイル, 1702 KiB)
 
-5. Rikuya Miyashita, Shiori Hironaka, Kazuyuki Shudo:<br>
-   "Clustering Coefficient Reflecting Pairwise Relationships within Hyperedges",
-   Scientific Reports 15, 20729 (2025),
+6. Rikuya Miyashita, Shiori Hironaka, Kazuyuki Shudo:<br>
+   "Clustering Coefficient Reflecting Pairwise Relationships within Hyperedges",<br>
+   Scientific Reports 15, 20729 (2025),<br>
    2025年 7月 1日
 
    * [DOI:10.1038/s41598-025-07869-8](https://doi.org/10.1038/s41598-025-07869-8)
    * Preprint: [arXiv:2410.23799](https://arxiv.org/abs/2410.23799), 2024年 10月 31日
 
-6. Taishi Nakai, Akira Sakurai, Kazuyuki Shudo:<br>
+7. Taishi Nakai, Akira Sakurai, Kazuyuki Shudo:<br>
    "The More Halving Advances, the More Rational Double Spending Attack is",<br>
    Proc. IEEE 43rd Int'l Conf. on Consumer Electronics (IEEE ICCE 2025),<br>
    2025年 1月 11〜14日
 
    * 論文 (草稿): [nakai-ICCE-2025-halving.pdf](http://www.shudo.net/publications/202501-ICCE-2025-halving/nakai-ICCE-2025-halving.pdf) (PDF ファイル, 1012 KiB)
 
-7. Shinnosuke Masuda, Kazuyuki Shudo:<br>
+8. Shinnosuke Masuda, Kazuyuki Shudo:<br>
    "Loss Based Byzantine Resilience for Decentralized Learning",<br>
    Proc. IEEE 43rd Int'l Conf. on Consumer Electronics (IEEE ICCE 2025),<br>
    2025年 1月 11〜14日
    * 論文 (草稿): [masuda-ICCE-2025-decentralized-learning.pdf](http://www.shudo.net/publications/202501-ICCE-2025-decentralized-learning/masuda-ICCE-2025-decentralized-learning.pdf) (PDF ファイル, 841 KiB)
 
-8. Shinnosuke Masuda, Tsuyoshi Hasegawa, Kazuyuki Shudo, Kenjiro Cho:<br>
+9. Shinnosuke Masuda, Tsuyoshi Hasegawa, Kazuyuki Shudo, Kenjiro Cho:<br>
    "Balancing Computing and Networking in Autonomous Edge Clouds",<br>
    Proc. 22nd IEEE Consumer Communications & Networking Conference (IEEE CCNC 2025), pp.536-542,<br>
    2025年 1月 10〜13日 (投稿 353件, 採択 123件)
