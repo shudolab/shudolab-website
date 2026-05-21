@@ -12,6 +12,8 @@ toc: true
 * 徐 子博："Common Ancestor: A Composable Tie-Breaking Property and Its Application in Defending Against Stubborn Mining Attacks"
 * 前田 史親："ブロック伝搬格差が生むマイニング報酬の不均衡に対する理論的評価"
 
+* * *
+
 ## 2024年度
 
 ### 修論
