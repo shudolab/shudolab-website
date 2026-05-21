@@ -4,6 +4,14 @@ date: Tue, 18 Oct 2016 05:33:08 +0000
 draft: false
 toc: true
 ---
+## 2025年度
+
+### 修論
+
+* 上田 結大："Bitcoin のCompact Block Relayにおけるインセンティブ設計の不完全性"
+* 徐 子博："Common Ancestor: A Composable Tie-Breaking Property and Its Application in Defending Against Stubborn Mining Attacks"
+* 前田 史親："ブロック伝搬格差が生むマイニング報酬の不均衡に対する理論的評価"
+
 ## 2024年度
 
 ### 修論
