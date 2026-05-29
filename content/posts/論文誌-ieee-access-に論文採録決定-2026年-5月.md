@@ -7,6 +7,6 @@ draft: true
 
 Akira Sakurai, Kazuyuki Shudo:
 "A Fully Local Last-Generated Rule in a Blockchain",
-IEEE Access, Vol.14, 2026年 (accepted)
+IEEE Access, Vol.14, 2026年 (採録決定 / to be published)
 
 ブロックチェーンでフォークが起きた際に、メインのチェーンを一意に決める新手法の論文です。
