@@ -1,7 +1,7 @@
 ---
 title: 論文誌 IEEE Access に論文採録決定 (2026年 5月)
 date: 2026-05-29T17:00:00+09:00
-draft: true
+draft: false
 ---
 櫻井 (博士課程3年)、首藤の論文が論文誌 IEEE Access に採録決定しました。
 
