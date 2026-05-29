@@ -1,9 +1,9 @@
 ---
-title: IEEE Open Journal of the Computer Society (OJCS) 採録決定 (2025年 12月)
+title: 論文誌 IEEE Open Journal of the Computer Society (OJCS) 採録決定 (2025年 12月)
 date: 2025-12-08T17:15:00+09:00
 draft: false
 ---
-櫻井 (博士課程2年)、首藤の論文が IEEE Open Journal of the Computer Society (OJCS) に、採録決定しました。
+櫻井 (博士課程2年)、首藤の論文が論文誌 IEEE Open Journal of the Computer Society (OJCS) に、採録決定しました。
 
 "Model-based Analysis of Mining Fairness in a Blockchain",
 IEEE Open Journal of the Computer Society (OJCS) (採録決定 / to be published)
